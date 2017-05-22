@@ -1,9 +1,9 @@
 # Cordova Messaging Plugin
 
-Current Version: v1.5
+Current Version: v1.6
 
-+ iOS SDK v2.1.5
-+ Android SDK v2.1.3
++ iOS SDK v2.3
++ Android SDK v2.3
 
 ## v1.5 Release Notes
 
