@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
     <string name="brand_name">Мой брэнд</string>
+    <string name="downloading_image">Скачивание изображения...</string>
     <string name="lp_accessibility_agent">Агент</string>
     <string name="lp_accessibility_agent_icon">Значок агента </string>
     <string name="lp_accessibility_attachment_menu">Меню вложений</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Галерея</string>
     <string name="lp_accessibility_image">Изображение</string>
     <string name="lp_accessibility_image_caption">Подпись к изображению</string>
+    <string name="lp_accessibility_message_preview_close_description">Закрыть</string>
     <string name="lp_accessibility_new_agent_message">Новое сообщение агента: </string>
     <string name="lp_accessibility_new_system_message">Новое системное сообщение: </string>
     <string name="lp_accessibility_photo">фото</string>
     <string name="lp_accessibility_photo_preview">Просмотр фото</string>
     <string name="lp_accessibility_received">получено</string>
     <string name="lp_accessibility_resend">Отправить еще раз</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">прокрутка вниз</string>
     <string name="lp_accessibility_selected">выбрано</string>
     <string name="lp_accessibility_you">Вы</string>
     <string name="lp_add_a_caption">Добавить подпись</string>
+    <string name="lp_attachment_menu_camera_item_text">Камера</string>
+    <string name="lp_attachment_menu_gallery_item_text">Галерея</string>
     <string name="lp_cancel">Отменить</string>
     <string name="lp_clear_history_dialog_message">Вся история сообщений будет утеряна. Продолжить?</string>
     <string name="lp_clear_history_dialog_positive_button">Очистить</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Спасибо за сообщение. Мы снова будем онлайн завтра в %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Агент ответит в течение %1$s</string>
     <string name="lp_yesterday">Вчера</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Заполнить форму</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ОСТАТЬСЯ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Повторного доступа к форме не будет.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Продолжить?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Ошибка при загрузке формы. Пожалуйста попросите оператора заново выслать форму.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Срок действия формы истек. Пожалуйста попросите оператора заново выслать форму.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Форма отправлена и не подлежит повторному просмотру в целях сохранения информационной безопасности.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Ввод данных производится в защищенном режиме Вводимая информация защищена, после ее отправки доступ к ней невозможен.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Форма уже была просмотрена. Пожалуйста попросите оператора заново выслать форму.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="uploading_image">Загрузка изображения...</string>
 </resources>

@@ -22,6 +22,7 @@
     <string name="lp_accessibility_attachment_menu_button_collapsed">Botão do menu de anexos recolhido</string>
     <string name="lp_accessibility_attachment_menu_button_expanded"> Botão do menu de anexos expandido</string>
     <string name="lp_accessibility_chat_message">Mensagem de chat</string>
+    <string name="lp_accessibility_message_preview_close_description">Fechar</string>
     <string name="lp_enter_message">Escreva uma mensagem</string>
     <string name="lp_message_time_min_ago">%1$s min. atrás</string>
     <string name="lp_message_time_now">Agora</string>

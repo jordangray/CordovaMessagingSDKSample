@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
     <string name="brand_name">我的品牌</string>
+    <string name="downloading_image">正在下载图像……</string>
     <string name="lp_accessibility_agent">专员</string>
     <string name="lp_accessibility_agent_icon">专员图标</string>
     <string name="lp_accessibility_attachment_menu">附件菜单</string>
@@ -64,9 +65,12 @@
     <string name="lp_accessibility_photo_preview">照片预览</string>
     <string name="lp_accessibility_received">已收到</string>
     <string name="lp_accessibility_resend">重新发送</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">向下滚动</string>
     <string name="lp_accessibility_selected">已选择</string>
     <string name="lp_accessibility_you">您</string>
     <string name="lp_add_a_caption">添加标题</string>
+    <string name="lp_attachment_menu_camera_item_text">相机</string>
+    <string name="lp_attachment_menu_gallery_item_text">图库</string>
     <string name="lp_cancel">取消</string>
     <string name="lp_clear_history_dialog_message">您所有的现有对话历史记录将会丢失。您确定吗？</string>
     <string name="lp_clear_history_dialog_positive_button">清除</string>
@@ -130,6 +134,18 @@
     <string name="lp_ttr_message_off_hours_message_today">感谢您的消息。我们今天的上线时间为 %1$s</string>
     <string name="lp_ttr_message_off_hours_message_tomorrow">感谢您的消息。我们明天的上线时间为 %1$s</string>
     <string name="lp_ttr_message_with_timestamp">代理员将在下述时间内回应：%1$s</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">填写表格</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">保留</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">好</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">当您离开安全表格后，您将无法再次访问它。</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">您确定吗？</string>
+    <string name="lpmessaging_ui_secure_form_error_message">打开此表格时出现问题。请要求代理员再次发送表格。</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">安全表格已过期。请要求代理员再次发送表格。</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">此表格已提交，出于安全原因，无法将其重新打开。</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">这是安全表格。在此输入的信息受到保护，提交后将无法访问。</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">此表格已被查看。请要求代理员再次发送表格。</string>
     <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">正在上传图像……</string>
 </resources>

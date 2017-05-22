@@ -15,7 +15,7 @@
         android:layout_height="@dimen/avatar_size"
         android:layout_alignParentLeft="true"
         android:layout_margin="@dimen/margin_regular"
-        android:background="@drawable/lpinfra_ui_avatar_bubble_shape"/>
+        android:background="@drawable/lpinfra_ui_brand_bubble_shape"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/lpui_brand_bubbleAvatar"
-            android:background="@drawable/lpinfra_ui_chat_bubble_start"
+            android:background="@drawable/lpmessaging_ui_chat_bubble_brand"
             android:layerType="software"
             android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
             android:textColor="@color/brand_bubble_message_text_color"

@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
     <string name="brand_name">मेरा ब्रांड</string>
+    <string name="downloading_image">छवि डाउनलोड कर रहा है...</string>
     <string name="lp_accessibility_agent">एजेंट</string>
     <string name="lp_accessibility_agent_icon">एजेंट आइकन</string>
     <string name="lp_accessibility_attachment_menu">अटैचमेंट मेन्यू</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">गैलरी</string>
     <string name="lp_accessibility_image">इमेज</string>
     <string name="lp_accessibility_image_caption">इमेज कैप्शन</string>
+    <string name="lp_accessibility_message_preview_close_description">बंद करें</string>
     <string name="lp_accessibility_new_agent_message">नया एजेंट मेसेजः</string>
     <string name="lp_accessibility_new_system_message">नया सिस्टम मेसेजः</string>
     <string name="lp_accessibility_photo">फोटो</string>
     <string name="lp_accessibility_photo_preview">फोटो प्रिव्यू</string>
     <string name="lp_accessibility_received">प्राप्त हुआ</string>
     <string name="lp_accessibility_resend">दोबारा भेजें</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">नीचे स्क्रोल करें</string>
     <string name="lp_accessibility_selected">चुना गया</string>
     <string name="lp_accessibility_you">आप</string>
     <string name="lp_add_a_caption">एक कैप्शन जोड़ें</string>
+    <string name="lp_attachment_menu_camera_item_text">कैमरा</string>
+    <string name="lp_attachment_menu_gallery_item_text">गैलरी</string>
     <string name="lp_cancel">निरस्त करें</string>
     <string name="lp_clear_history_dialog_message">आपकी मौजूदा चर्चा का इतिहास समाप्त हो जाएगा। क्या आपको विश्वास है?</string>
     <string name="lp_clear_history_dialog_positive_button">स्पष्ट</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">आपके संदेश के लिए धन्यवाद। हम %1$s पर कल ऑनलाइन वापस आएंगे</string>
     <string name="lp_ttr_message_with_timestamp">एक एजेंट इस पर अगले %1$s में प्रतिक्रिया करेगा </string>
     <string name="lp_yesterday">बीता कल</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">फार्म भरें</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">रुकें</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">ओके</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">एक बार सिक्योर फार्म छोड़ने बाद, आप इस पर दोबारा नहीं आ पाएंगे।</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">क्या आपको विश्वास है?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">इस फार्म को खोलने में समस्या आयी थी। कृपया एजेंट से फार्म पुनः भेजने को कहें।</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">सिक्योर फार्म की अवधि खत्म हो गयी। कृपया एजेंट से फार्म पुनः भेजने को कहें।</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">यह फार्म प्रस्तुत हो चुका है और सुरक्षा कारणों से फिर से खोला नहीं जा सकता है।</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">यह एक सुरक्षित फॉर्म है यहां दी गयी जानकारी सुरक्षित है तथा देने के बाद दोबारा देखी नहीं जा सकती।</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">यह फार्म पहले ही देखा जा चुका है। कृपया एजेंट से फार्म पुनः भेजने को कहें।</string>
     <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">छवि अपलोड कर रहा है...</string>
 </resources>

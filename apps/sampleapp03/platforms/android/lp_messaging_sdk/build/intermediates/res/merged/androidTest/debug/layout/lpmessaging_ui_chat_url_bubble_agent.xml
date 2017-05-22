@@ -58,7 +58,7 @@
                     android:layout_height="@dimen/margin_quadro"
                     android:padding="@dimen/margin_regular"
                     android:layout_gravity="center"
-                    android:progressDrawable="@drawable/lpmessaging_ui_image_progress_bar"
+                    app:srcCompat="@drawable/lpmessaging_ui_image_progress_bar"
                     android:visibility="gone" />
 
                 <FrameLayout

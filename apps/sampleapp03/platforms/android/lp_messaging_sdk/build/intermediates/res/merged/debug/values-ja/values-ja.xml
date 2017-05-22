@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
     <string name="brand_name">マイブランド</string>
+    <string name="downloading_image">画像をダウンロード中...</string>
     <string name="lp_accessibility_agent">送り主</string>
     <string name="lp_accessibility_agent_icon">送り主のアイコン</string>
     <string name="lp_accessibility_attachment_menu">添付メニュー</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">ギャラリー</string>
     <string name="lp_accessibility_image">画像</string>
     <string name="lp_accessibility_image_caption">画像のキャプション</string>
+    <string name="lp_accessibility_message_preview_close_description">閉じる</string>
     <string name="lp_accessibility_new_agent_message">新しい送り主からのメッセージ： </string>
     <string name="lp_accessibility_new_system_message">新しいシステムメッセージ：</string>
     <string name="lp_accessibility_photo">写真</string>
     <string name="lp_accessibility_photo_preview">写真のプレビュー</string>
     <string name="lp_accessibility_received">受信しました</string>
     <string name="lp_accessibility_resend">再送信する</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">下にスクロール</string>
     <string name="lp_accessibility_selected">選択されました</string>
     <string name="lp_accessibility_you">あなた</string>
     <string name="lp_add_a_caption">キャプションを追加する</string>
+    <string name="lp_attachment_menu_camera_item_text">カメラ</string>
+    <string name="lp_attachment_menu_gallery_item_text">ギャラリー</string>
     <string name="lp_cancel">キャンセル</string>
     <string name="lp_clear_history_dialog_message">既存の会話履歴はすべて消去されます。実行しますか？</string>
     <string name="lp_clear_history_dialog_positive_button">消去</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">メッセージをいただき、ありがとうございます。明日 %1$s にオンラインになります</string>
     <string name="lp_ttr_message_with_timestamp">オペレーターは %1$s 以内に応答します</string>
     <string name="lp_yesterday">昨日</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">フォームに入力する</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">キャンセル</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">フォームを閉じると再度アクセスできません。</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">実行しますか？</string>
+    <string name="lpmessaging_ui_secure_form_error_message">問題が発生し、フォームを開けませんでした。フォームを再送するよう、担当者にリクエストしてください。</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">時間切れになり、フォームを開けませんでした。フォームを再送するよう、担当者にリクエストしてください。</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">このフォームは送信済です。セキュリティ上の理由により、送信済のフォームを開くことはできません。</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">このフォームはセキュリティ上保護されています。入力情報は保護され、送信後はアクセスできません。</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">このフォームは閲覧済です。フォームを再送するよう、担当者にリクエストください。</string>
     <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">画像をアップロード中...</string>
 </resources>

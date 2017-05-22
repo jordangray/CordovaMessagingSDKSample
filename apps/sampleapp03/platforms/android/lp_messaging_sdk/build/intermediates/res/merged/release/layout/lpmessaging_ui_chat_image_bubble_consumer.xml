@@ -52,7 +52,7 @@
                     android:layout_width="@dimen/lpui_message_status_image_size"
                     android:layout_height="@dimen/lpui_message_status_image_size"
                     android:layout_gravity="center"
-                    android:progressDrawable="@drawable/lpmessaging_ui_image_progress_bar"
+                    app:srcCompat="@drawable/lpmessaging_ui_image_progress_bar"
                     android:visibility="invisible"/>
 
             </FrameLayout>
@@ -76,7 +76,7 @@
             android:layout_toLeftOf="@id/lpui_image_message_view"
             android:clickable="true"
             android:contentDescription="@string/lp_accessibility_resend"
-            android:src="@drawable/lpmessaging_ui_ic_msg_error"
+            app:srcCompat="@drawable/lpmessaging_ui_ic_msg_error"
             android:visibility="gone" />
 
         <ImageView
@@ -87,7 +87,7 @@
             android:layout_marginRight="@dimen/margin_half"
             android:layout_toLeftOf="@id/lpui_image_message_view"
             android:contentDescription=""
-            android:src="@drawable/lpmessaging_ui_ic_msg_read"
+            app:srcCompat="@drawable/lpmessaging_ui_ic_msg_read"
             android:visibility="gone" />
 
     </RelativeLayout>

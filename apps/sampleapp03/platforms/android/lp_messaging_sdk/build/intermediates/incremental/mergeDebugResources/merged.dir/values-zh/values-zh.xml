@@ -3,6 +3,7 @@
     <string name="lp_accessibility_attachment_menu_button_collapsed">附件菜单按钮已折叠</string>
     <string name="lp_accessibility_attachment_menu_button_expanded">附件菜单按钮已展开</string>
     <string name="lp_accessibility_chat_message">聊天消息</string>
+    <string name="lp_accessibility_message_preview_close_description">关闭</string>
     <string name="lp_enter_message">写消息</string>
     <string name="lp_message_time_min_ago">%1$s 分钟前</string>
     <string name="lp_message_time_now">现在</string>

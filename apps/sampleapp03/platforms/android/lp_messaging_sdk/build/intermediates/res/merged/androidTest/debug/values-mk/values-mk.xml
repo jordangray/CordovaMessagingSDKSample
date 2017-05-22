@@ -31,6 +31,7 @@
                <item quantity="other">"%1$d НЕПРОЧИТАНИ ПОРАКИ"</item>
            </plurals>
     <string name="brand_name">Мој бренд</string>
+    <string name="downloading_image">Сликата се презема...</string>
     <string name="lp_accessibility_agent">Агент</string>
     <string name="lp_accessibility_agent_icon">Икона агент</string>
     <string name="lp_accessibility_attachment_menu">Мени прилог</string>
@@ -42,15 +43,19 @@
     <string name="lp_accessibility_gallery">Галерија</string>
     <string name="lp_accessibility_image">Слика</string>
     <string name="lp_accessibility_image_caption">Наслов на слика</string>
+    <string name="lp_accessibility_message_preview_close_description">Затвори</string>
     <string name="lp_accessibility_new_agent_message">Нова порака агент: </string>
     <string name="lp_accessibility_new_system_message">Нова порака агент: </string>
     <string name="lp_accessibility_photo">фото</string>
     <string name="lp_accessibility_photo_preview">Преглед фото</string>
     <string name="lp_accessibility_received">доби</string>
     <string name="lp_accessibility_resend">Испратете повторно</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">лизгај надолу</string>
     <string name="lp_accessibility_selected">избрани</string>
     <string name="lp_accessibility_you">Ви</string>
     <string name="lp_add_a_caption">Додадете наслов</string>
+    <string name="lp_attachment_menu_camera_item_text">Камера</string>
+    <string name="lp_attachment_menu_gallery_item_text">Галерија</string>
     <string name="lp_cancel">Откажи</string>
     <string name="lp_clear_history_dialog_message">Ќе ја загубите целата постојна историја со разговори. Дали сте сигурни?</string>
     <string name="lp_clear_history_dialog_positive_button">Исчисти</string>
@@ -119,4 +124,16 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Ви благодариме за пораката. Ќе бидеме повторно во мрежа утре во %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Агентот ќе одговори за %1$s</string>
     <string name="lp_yesterday">Вчера</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Пополнете го формуларот</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ОСТАНИ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">Во ред</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Ако излезете од безбедниот формулар, веќе не може да пристапите до него.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Дали сте сигурни?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Има проблеми со отворање на овој формулар. Побарајте од агентот да ви го испрати формуларот одново.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Безбедниот формулар е истечен. Побарајте од агентот да ви го испрати формуларот одново.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Овој формулат е поднесен и не може да се отвори одново од безбедносни причини.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Ова е безбеден формулар. Информациите внесени тука се заштитени и до нив не може да се пристапи откако ќе се поднесат.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Овој формулар веќе бил разгледуван. Побарајте од агентот да ви го испрати формуларот одново.</string>
+    <string name="uploading_image">Сликата се поставува...</string>
 </resources>

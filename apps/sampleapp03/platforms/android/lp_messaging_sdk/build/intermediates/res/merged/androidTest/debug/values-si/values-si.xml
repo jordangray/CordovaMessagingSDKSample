@@ -4,9 +4,11 @@
                <item quantity="one">"%1$d NEPREBRANO SPOROČILO"</item>
                <item quantity="other">"%1$d NEPREBRANA SPOROČILA"</item>
            </plurals>
+    <string name="downloading_image">Prenašam sliko...</string>
     <string name="lp_accessibility_attachment_menu_button_collapsed">Tipka meni prilog propadel</string>
     <string name="lp_accessibility_attachment_menu_button_expanded">Tipka meni prilog razširjena</string>
     <string name="lp_accessibility_chat_message">Chat sporočilo</string>
+    <string name="lp_accessibility_message_preview_close_description">Zapri</string>
     <string name="lp_conversation_ended_by_agent_no_name">»Pogovor je razrešil asistent\n %1$s«</string>
     <string name="lp_conversation_ended_by_agent_with_name">"Pogovor je razrešil(a) %1$s\n%2$s"</string>
     <string name="lp_conversation_ended_by_you">»Pogovor ste razrešili vi\n%1$s«</string>
@@ -28,4 +30,5 @@
     <string name="lp_system_message_real_time_masked">Vaši osebni podatki so bili prikriti, da zavarujemo vašo zasebnost in jih asistent ne more prebrati.</string>
     <string name="lp_today">»Danes«</string>
     <string name="lp_yesterday">Včeraj</string>
+    <string name="uploading_image">Nalagam sliko...</string>
 </resources>

@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
     <string name="brand_name">Tuotemerkkini</string>
+    <string name="downloading_image">Ladataan kuvaa…</string>
     <string name="lp_accessibility_agent">Agentti</string>
     <string name="lp_accessibility_agent_icon">Agentti Kuvake</string>
     <string name="lp_accessibility_attachment_menu">Liitevalikko</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galleria</string>
     <string name="lp_accessibility_image">Kuva</string>
     <string name="lp_accessibility_image_caption">Kuvateksti</string>
+    <string name="lp_accessibility_message_preview_close_description">Sulje</string>
     <string name="lp_accessibility_new_agent_message">Uusi agentti viesti: </string>
     <string name="lp_accessibility_new_system_message">Uusi järjestelmä viesti: </string>
     <string name="lp_accessibility_photo">valokuva</string>
     <string name="lp_accessibility_photo_preview">Valokuvan esikatselu</string>
     <string name="lp_accessibility_received">vastaanotettu</string>
     <string name="lp_accessibility_resend">Lähettää uudelleen</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">vieritä alas</string>
     <string name="lp_accessibility_selected">valittu</string>
     <string name="lp_accessibility_you">Sinä</string>
     <string name="lp_add_a_caption">Lisää kuvateksti</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galleria</string>
     <string name="lp_cancel">Peruuta</string>
     <string name="lp_clear_history_dialog_message">Koko keskusteluhistoriasi poistetaan. Oletko varma?</string>
     <string name="lp_clear_history_dialog_positive_button">Tyhjennä</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Kiitos viestistäsi. Olemme tavoitettavissa uudelleen huomenna kello %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Asiakaspalvelija vastaa %1$s sisällä</string>
     <string name="lp_yesterday">Eilen</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Täytä lomake</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">Luottokorttitiedot</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Kun poistut salaisesta lomakkeesta, et voi käyttää sitä enää.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Oletko varma?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Tämän lomakkeen avaamisessa tapahtui virhe. Pyydä asiakaspalvelijaa lähettämään lomake uudelleen.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Suojattu lomake on umpeutunut. Pyydä asiakaspalvelijaa lähettämään lomake uudelleen.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Tämä lomake on jo lähetetty, eikä sitä turvallisuussyistä voi enää avata.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Tämä on salattu lomake. Tähän syötetyt tiedot on suojattu. Niitä ei voida enää näyttää lähettämisen jälkeen.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Tämä lomake on jo katsottu. Pyydä asiakaspalvelijaa lähettämään lomake uudelleen.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Lähetetään kuvaa…</string>
 </resources>

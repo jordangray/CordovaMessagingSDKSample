@@ -10,6 +10,12 @@
 
     <include
         android:id="@+id/lpui_tool_bar"
+        android:visibility="visible"
         layout="@layout/lpmessaging_ui_toolbar_chat"/>
+
+    <include
+        android:id="@+id/lpui_tool_bar_pci"
+        android:visibility="visible"
+        layout="@layout/lpmessaging_ui_toolbar_pci"/>
 
 </FrameLayout>

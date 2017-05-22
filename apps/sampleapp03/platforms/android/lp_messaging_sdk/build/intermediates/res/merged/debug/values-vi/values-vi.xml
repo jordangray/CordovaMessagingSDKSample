@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
     <string name="brand_name">Nhãn hiệu của tôi</string>
+    <string name="downloading_image">Đang tải xuống hình ảnh...</string>
     <string name="lp_accessibility_agent">Tổng đài viên</string>
     <string name="lp_accessibility_agent_icon">Biểu tượng tổng đài viên</string>
     <string name="lp_accessibility_attachment_menu">Menu đính kèm</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Thư viện</string>
     <string name="lp_accessibility_image">Hình ảnh</string>
     <string name="lp_accessibility_image_caption">Chú thích ảnh</string>
+    <string name="lp_accessibility_message_preview_close_description">Đóng</string>
     <string name="lp_accessibility_new_agent_message">Tin nhắn mới từ tổng đài viên: </string>
     <string name="lp_accessibility_new_system_message"> Tin nhắn mới từ hệ thống: </string>
     <string name="lp_accessibility_photo">hình ảnh</string>
     <string name="lp_accessibility_photo_preview">Xem trước ảnh</string>
     <string name="lp_accessibility_received">đã nhận</string>
     <string name="lp_accessibility_resend">Gửi lại</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">cuộn xuống</string>
     <string name="lp_accessibility_selected">đã chọn</string>
     <string name="lp_accessibility_you">Bạn</string>
     <string name="lp_add_a_caption">Thêm chú thích</string>
+    <string name="lp_attachment_menu_camera_item_text">Camera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Thư viện</string>
     <string name="lp_cancel">Hủy</string>
     <string name="lp_clear_history_dialog_message">Toàn bộ lịch sử hội thoại hiện có của bạn sẽ bị mất. Bạn có chắc chắn không?</string>
     <string name="lp_clear_history_dialog_positive_button">Rõ ràng</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Cảm ơn bạn đã gửi tin nhắn. Chúng tôi sẽ trực tuyến trở lại vào ngày mai lúc %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Một người đại diện sẽ trả lời trong %1$s tiếp theo</string>
     <string name="lp_yesterday">Hôm qua</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Điền biểu mẫu</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">Ở LẠI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">Đồng ý</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Sau khi đã rời khỏi trang bảo mật, bạn sẽ không thể truy cập lại trang này.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Bạn có chắc chắn không?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Có vấn đề khi mở biểu mẫu này. Vui lòng yêu cầu đại lý gửi lại biểu mẫu.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Biểu mẫu bảo mật đã hết hạn. Vui lòng yêu cầu đại lý gửi lại biểu mẫu.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Biểu mẫu này đã được gửi đi và không thể mở lại vì lý do bảo mật.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Đây là một mẫu bảo đảm. Thông tin đã nhập ở đây được bảo vệ và không thể truy cập sau khi đã gửi đi.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Biểu mẫu này đã được xem. Vui lòng yêu cầu đại lý gửi lại biểu mẫu.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Đang tải lên hình ảnh...</string>
 </resources>

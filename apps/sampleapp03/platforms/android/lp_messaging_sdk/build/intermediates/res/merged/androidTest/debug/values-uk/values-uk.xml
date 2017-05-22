@@ -58,6 +58,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
     <string name="brand_name">Моя торгова марка</string>
+    <string name="downloading_image">Завантаження зображення…</string>
     <string name="lp_accessibility_agent">Агент</string>
     <string name="lp_accessibility_agent_icon">Іконка агента</string>
     <string name="lp_accessibility_attachment_menu">Меню вкладень</string>
@@ -66,18 +67,22 @@
     <string name="lp_accessibility_camera">Камера</string>
     <string name="lp_accessibility_chat_message">Повідомлення чату</string>
     <string name="lp_accessibility_full_image">Повне зображення</string>
-    <string name="lp_accessibility_gallery"> Галерея</string>
+    <string name="lp_accessibility_gallery">Галерея</string>
     <string name="lp_accessibility_image">Зображення</string>
     <string name="lp_accessibility_image_caption">Підпис до зображення</string>
+    <string name="lp_accessibility_message_preview_close_description">Закрити</string>
     <string name="lp_accessibility_new_agent_message">Нове повідомлення агента: </string>
     <string name="lp_accessibility_new_system_message">Нове системне повідомлення:</string>
     <string name="lp_accessibility_photo">фото</string>
     <string name="lp_accessibility_photo_preview">Перегляд фото</string>
     <string name="lp_accessibility_received">одержано</string>
     <string name="lp_accessibility_resend">Відправити знову</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">прокрутити вниз</string>
     <string name="lp_accessibility_selected">вибрано</string>
     <string name="lp_accessibility_you">Ви</string>
     <string name="lp_add_a_caption">Додати підпис</string>
+    <string name="lp_attachment_menu_camera_item_text">Камера</string>
+    <string name="lp_attachment_menu_gallery_item_text">Галерея</string>
     <string name="lp_cancel">Скасувати</string>
     <string name="lp_clear_history_dialog_message">Усю історію розмов буде втрачено. Продовжити?</string>
     <string name="lp_clear_history_dialog_positive_button">Очистити</string>
@@ -146,6 +151,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Дякуємо за повідомлення. Ми знову будемо онлайн завтра о %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Агент відповість протягом %@</string>
     <string name="lp_yesterday">Вчора</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Заповнення форми</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ЗАЛИШИТИСЯ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">ОК</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Після того, як ви закриєте захищену форму, доступ до неї для вас буде заблоковано.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Продовжити?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Під час відкриття форми сталася помилка. Зверніться до агента, щоб отримати форму повторно.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Термін дії захищеної форми завершився. Зверніться до агента, щоб отримати форму повторно.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Цю форму надіслано, і з міркувань безпеки її не можна відкрити повторно.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Це захищена форма. Указані тут відомості захищено. Після надсилання доступ до них буде обмежено.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Цю форму вже переглянуто. Зверніться до агента, щоб отримати форму повторно.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Передавання зображення…</string>
 </resources>

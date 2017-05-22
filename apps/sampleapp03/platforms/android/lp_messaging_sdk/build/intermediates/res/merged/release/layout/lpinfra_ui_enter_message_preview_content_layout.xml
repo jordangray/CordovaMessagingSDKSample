@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/lpinfra_ui_chat_url_preview_bubble"
     android:baselineAligned="false"
     android:orientation="horizontal">
@@ -64,7 +65,8 @@
         android:padding="1dp"
         android:layout_margin="4dp"
         android:background="@drawable/lpinfra_ui_chat_url_preview_bubble"
-        android:scaleType="centerCrop" />
+        android:scaleType="centerCrop"
+        android:importantForAccessibility="no"/>
 
     <ImageButton
         android:id="@+id/close_btn"
@@ -72,8 +74,8 @@
         android:layout_height="12dp"
         android:gravity="right"
         android:layout_margin="4dp"
-        android:text="X"
-        android:background="@drawable/lpinfra_close_btn"
+        android:contentDescription="@string/lp_accessibility_message_preview_close_description"
+        app:srcCompat="@drawable/lpinfra_close_btn"
         android:layout_weight="0"
         android:textSize="14sp"
         android:textStyle="bold" />

@@ -54,6 +54,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
     <string name="brand_name">Moja značka</string>
+    <string name="downloading_image">Sťahuje sa obrázok…</string>
     <string name="lp_accessibility_agent">Zástupca</string>
     <string name="lp_accessibility_agent_icon">Ikonka zástupcu</string>
     <string name="lp_accessibility_attachment_menu">Ponuka príloh</string>
@@ -65,15 +66,19 @@
     <string name="lp_accessibility_gallery">Galéria</string>
     <string name="lp_accessibility_image">Obrázok</string>
     <string name="lp_accessibility_image_caption">Titulok k obrázku</string>
+    <string name="lp_accessibility_message_preview_close_description">Zavrieť</string>
     <string name="lp_accessibility_new_agent_message">Správa nového zástupcu: </string>
     <string name="lp_accessibility_new_system_message">Správa nového systému: </string>
     <string name="lp_accessibility_photo">fotka</string>
     <string name="lp_accessibility_photo_preview">Náhľad fotky</string>
     <string name="lp_accessibility_received">doručené</string>
     <string name="lp_accessibility_resend">Poslať znova</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">posunúť nadol</string>
     <string name="lp_accessibility_selected">zvolené</string>
     <string name="lp_accessibility_you">Ty</string>
     <string name="lp_add_a_caption">Pridať titulok</string>
+    <string name="lp_attachment_menu_camera_item_text">Fotoaparát</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galéria</string>
     <string name="lp_cancel">Zrušiť</string>
     <string name="lp_clear_history_dialog_message">Celá existujúca história konverzácie sa zruší. Naozaj?</string>
     <string name="lp_clear_history_dialog_positive_button">Vyčistiť</string>
@@ -142,6 +147,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Ďakujeme vám za správu. Zajtra budeme znova online o %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Zástupca odpovie v priebehu nasledujúcej/nasledujúcich %1$s</string>
     <string name="lp_yesterday">Včera</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Vyplniť formulár</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">OSTAŤ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Po zatvorení zabezpečeného formulára nebudete znova k nemu môcť získať prístup.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Naozaj?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Pri otváraní tohto formulára sa vyskytla chyba. Požiadajte zástupcu o opätovné odoslanie formulára.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Platnosť zabezpečeného formulára uplynula. Požiadajte zástupcu o opätovné odoslanie formulára.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Tento formulár bol odoslaný a z dôvodov zabezpečenia ho nie je možné znova otvoriť.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Toto je zabezpečený formulár. Informácie, ktoré sem zadáte, sú chránené a po odoslaní nie je možné k nim získať prístup.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Tento formulár už bol zobrazený. Požiadajte zástupcu o opätovné odoslanie formulára.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Vyhľadávanie"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Nahráva sa obrázok…</string>
 </resources>

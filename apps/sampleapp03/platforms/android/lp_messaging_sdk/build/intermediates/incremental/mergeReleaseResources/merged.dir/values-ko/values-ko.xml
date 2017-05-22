@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
     <string name="brand_name">나의 브랜드</string>
+    <string name="downloading_image">이미지 다운로드 중…</string>
     <string name="lp_accessibility_agent">상담사</string>
     <string name="lp_accessibility_agent_icon">상담사 아이콘</string>
     <string name="lp_accessibility_attachment_menu">첨부 메뉴</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">갤러리</string>
     <string name="lp_accessibility_image">이미지</string>
     <string name="lp_accessibility_image_caption">이미지 캡션</string>
+    <string name="lp_accessibility_message_preview_close_description">닫기</string>
     <string name="lp_accessibility_new_agent_message">새로운 상담사 메시지: </string>
     <string name="lp_accessibility_new_system_message">새로운 시스템 메시지: </string>
     <string name="lp_accessibility_photo">사진</string>
     <string name="lp_accessibility_photo_preview">사진 미리보기</string>
     <string name="lp_accessibility_received">수신됨</string>
     <string name="lp_accessibility_resend">다시 보내기</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">스크롤다운</string>
     <string name="lp_accessibility_selected">선택됨</string>
     <string name="lp_accessibility_you">귀하</string>
     <string name="lp_add_a_caption">캡션 추가</string>
+    <string name="lp_attachment_menu_camera_item_text">카메라</string>
+    <string name="lp_attachment_menu_gallery_item_text">갤러리</string>
     <string name="lp_cancel">취소</string>
     <string name="lp_clear_history_dialog_message">모든 기존 대화 기록이 없어집니다. 맞습니까?</string>
     <string name="lp_clear_history_dialog_positive_button">선택을 취소</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">메시지 감사합니다. 저희는 내일 %1$s에 다시 온라인이 됩니다.</string>
     <string name="lp_ttr_message_with_timestamp">에이전트가 다음 %1$s 이내에 응답할 것입니다</string>
     <string name="lp_yesterday">어제</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">입력 양식</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">남아있기</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">확인</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">보안 양식에서 나가면 다시 접근할 수 없습니다.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">맞습니까?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">이 양식을 여는 데 문제가 있었습니다. 에이전트에게 양식을 다시 발송하도록 요청하십시오.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">보안 양식이 만료되었습니다. 에이전트에게 양식을 다시 발송하도록 요청하십시오.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">이 양식을 제출했으며 보안 이유로 다시 열 수 없습니다.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">보안 양식입니다. 여기에 입력한 정보는 보호되며 제출한 후에 접근할 수 없습니다.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">이 양식은 이미 보았습니다. 에이전트에게 양식을 다시 발송하도록 요청하십시오.</string>
     <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">이미지 업로드 중…</string>
 </resources>

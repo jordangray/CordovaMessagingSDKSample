@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
     <string name="brand_name">Mijn merk</string>
+    <string name="downloading_image">Afbeelding ophalen...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Agent Icoontje</string>
     <string name="lp_accessibility_attachment_menu">Bijlage menu</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galerij</string>
     <string name="lp_accessibility_image">Afbeelding</string>
     <string name="lp_accessibility_image_caption">Afbeelding onderschrift</string>
+    <string name="lp_accessibility_message_preview_close_description">Sluit</string>
     <string name="lp_accessibility_new_agent_message">Nieuw agent bericht: </string>
     <string name="lp_accessibility_new_system_message">Nieuw systeembericht: </string>
     <string name="lp_accessibility_photo">foto</string>
     <string name="lp_accessibility_photo_preview">Foto voorbeeld</string>
     <string name="lp_accessibility_received">ontvangen</string>
     <string name="lp_accessibility_resend">Opnieuw versturen</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">scroll omlaag</string>
     <string name="lp_accessibility_selected">geselecteerd</string>
     <string name="lp_accessibility_you">U</string>
     <string name="lp_add_a_caption">Voeg onderschrift toe</string>
+    <string name="lp_attachment_menu_camera_item_text">Camera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerij</string>
     <string name="lp_cancel">Annuleer</string>
     <string name="lp_clear_history_dialog_message">Uw bestaande gespreksgeschiedenis wordt verwijderd. Wilt u doorgaan?</string>
     <string name="lp_clear_history_dialog_positive_button">Wissen</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Bedankt voor uw bericht. We zijn morgen weer online om %1$s</string>
     <string name="lp_ttr_message_with_timestamp">U ontvangt binnen %1$s reactie van een medewerker</string>
     <string name="lp_yesterday">Gisteren</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Vul het formulier in</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">Terug</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Zodra u het beveiligd formulier heeft verlaten, kunt u het niet opnieuw openen.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Weet u het zeker?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Er was een probleem met het openen van dit formulier. Vraag de medewerker om het formulier opnieuw te versturen.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Beveiligd formulier is niet meer geldig. Vraag de medewerker om het formulier opnieuw te verzenden.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Dit formulier is ingediend en kan om veiligheidsredenen niet opnieuw worden geopend.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Dit is een beveiligd formulier. De hier ingevoerde gegevens zijn beschermd en kunnen niet worden gewijzigd zodra ze zijn verzonden.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Dit formulier is al geopend. Vraag de medewerker om het formulier opnieuw te versturen.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Afbeelding versturen...</string>
 </resources>

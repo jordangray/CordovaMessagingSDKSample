@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
     <string name="brand_name">A márkám</string>
+    <string name="downloading_image">Kép letöltése…</string>
     <string name="lp_accessibility_agent">Ügynök</string>
     <string name="lp_accessibility_agent_icon">Ügynökikon</string>
     <string name="lp_accessibility_attachment_menu">Csatolmányok menüje</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galéria</string>
     <string name="lp_accessibility_image">Kép</string>
     <string name="lp_accessibility_image_caption">Képaláírás</string>
+    <string name="lp_accessibility_message_preview_close_description">Bezárás</string>
     <string name="lp_accessibility_new_agent_message">Új ügynöküzenet: </string>
     <string name="lp_accessibility_new_system_message">Új rendszerüzenet: </string>
     <string name="lp_accessibility_photo">fotó</string>
     <string name="lp_accessibility_photo_preview">Fotó előnézete</string>
     <string name="lp_accessibility_received">kézbesítve</string>
     <string name="lp_accessibility_resend">Küldés újra</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">lefelé görgetés</string>
     <string name="lp_accessibility_selected">kiválasztva</string>
     <string name="lp_accessibility_you">Ön</string>
     <string name="lp_add_a_caption">Képaláírás készítése</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galéria</string>
     <string name="lp_cancel">Törlés</string>
     <string name="lp_clear_history_dialog_message">A meglévő beszélgetés minden előznénye elvész. Biztos benne?</string>
     <string name="lp_clear_history_dialog_positive_button">Törlés</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Köszönjük az üzenetét. Holnap, %1$s órakor ismét itt vagyunk</string>
     <string name="lp_ttr_message_with_timestamp">Az elkövetkezendő %1$s lejárta előtt egy munkatársunk válaszolni fog</string>
     <string name="lp_yesterday">Tegnap</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Töltse ki az űrlapot</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">MARAD</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Miután elhagyja a biztonságos űrlapot, a hozzáférése megszűnik.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Biztos benne?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Hiba történt az űrlap megnyitása közben. Kérje meg a kapcsolattartót az űrlap visszaküldésére.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">A biztonságos űrlap ideje lejárt. Kérje meg a kapcsolattartót az űrlap visszaküldésére.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Ezt az űrlapot már elküldte és biztonsági okokból nem nyithatja meg újra.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Ez egy biztonságos űrlap. Az itt megadott információ védett és az elküldése után nem hozzáférhető.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Ez az űrlap csak megtekinthető. Kérje meg a kapcsolattartót az űrlap visszaküldésére.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Kép feltöltése…</string>
 </resources>

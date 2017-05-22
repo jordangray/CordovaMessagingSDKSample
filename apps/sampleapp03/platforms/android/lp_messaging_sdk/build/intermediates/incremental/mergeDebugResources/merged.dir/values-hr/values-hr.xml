@@ -54,6 +54,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
     <string name="brand_name">Moja marka</string>
+    <string name="downloading_image">Preuzima se slika...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Ikona agenta</string>
     <string name="lp_accessibility_attachment_menu">Izbornik privitak</string>
@@ -65,15 +66,19 @@
     <string name="lp_accessibility_gallery">Galerija</string>
     <string name="lp_accessibility_image">Slika</string>
     <string name="lp_accessibility_image_caption">Potpis na slici</string>
+    <string name="lp_accessibility_message_preview_close_description">Zatvori</string>
     <string name="lp_accessibility_new_agent_message">Nova poruka agenta: </string>
     <string name="lp_accessibility_new_system_message">Nova poruka agenta: </string>
     <string name="lp_accessibility_photo">foto</string>
     <string name="lp_accessibility_photo_preview">Pregled foto</string>
     <string name="lp_accessibility_received">primljen</string>
     <string name="lp_accessibility_resend">Ponovno poslati</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">pomaknite dolje</string>
     <string name="lp_accessibility_selected">odabran</string>
     <string name="lp_accessibility_you">Vi</string>
     <string name="lp_add_a_caption">Dodajte potpis</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerija</string>
     <string name="lp_cancel">Odustani</string>
     <string name="lp_clear_history_dialog_message">Cijela povijest vaših razgovora bit će izgubljena. Jeste li sigurni?</string>
     <string name="lp_clear_history_dialog_positive_button">Obriši</string>
@@ -142,6 +147,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Hvala na vašoj poruci. Na mreži ćemo ponovno biti sutra u %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Agent će odgovoriti u roku %1$s</string>
     <string name="lp_yesterday">Jučer</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Ispunite obrazac</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">OSTANI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">U redu</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Nakon napuštanja sigurnog obrasca, nećete mu ponovno moći pristupiti.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Jeste li sigurni?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Došlo je do problema pri otvaranju ovog obrasca. Zamolite agenta da vam ponovno pošalje obrazac.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Sigurni obrazac je istekao. Zamolite agenta da vam ponovno pošalje obrazac.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Obrazac je poslan i ne može se ponovno otvoriti iz sigurnosnih razloga.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Ovo je sigurni obrazac. Podaci koje ovdje unesete su zaštićeni i nije im moguće pristupiti nakon slanja.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Ovaj obrazac već je pregledan. Zamolite agenta da vam ponovno pošalje obrazac.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Šalje se slika...</string>
 </resources>

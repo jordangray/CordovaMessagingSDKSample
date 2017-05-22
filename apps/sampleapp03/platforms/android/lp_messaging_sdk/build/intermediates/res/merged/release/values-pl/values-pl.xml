@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
     <string name="brand_name">Moja marka</string>
+    <string name="downloading_image">Pobieranie obrazu...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Ikona agenta</string>
     <string name="lp_accessibility_attachment_menu">Menu Załącznik</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galeria</string>
     <string name="lp_accessibility_image">Obraz</string>
     <string name="lp_accessibility_image_caption">Podpis do obrazu</string>
+    <string name="lp_accessibility_message_preview_close_description">Zamknij</string>
     <string name="lp_accessibility_new_agent_message">Nowy komunikat agenta: </string>
     <string name="lp_accessibility_new_system_message">Nowy komunikat systemu: </string>
     <string name="lp_accessibility_photo">zdjęcie</string>
     <string name="lp_accessibility_photo_preview">Podgląd zdjęcia</string>
     <string name="lp_accessibility_received">otrzymane</string>
     <string name="lp_accessibility_resend">Wyślij ponownie</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">przewiń na dół</string>
     <string name="lp_accessibility_selected">wybrane</string>
     <string name="lp_accessibility_you">Ty</string>
     <string name="lp_add_a_caption">Dodaj podpis</string>
+    <string name="lp_attachment_menu_camera_item_text">Aparat</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galeria</string>
     <string name="lp_cancel">Anuluj</string>
     <string name="lp_clear_history_dialog_message">Cała Twoja historia rozmowy zostanie utracona. Na pewno?</string>
     <string name="lp_clear_history_dialog_positive_button">Wyczyść</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Dziękujemy za wiadomość. Będziemy online jutro o %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Agent odpowie w ciągu następnych %1$s</string>
     <string name="lp_yesterday">Wczoraj</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Wypełnij formularz</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ZOSTAŃ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Po opuszczeniu zabezpieczonego formularza ponowny dostęp do niego nie będzie już możliwy.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Na pewno?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Podczas otwierania formularza wystąpił błąd. Poproś agenta o ponowne przesłanie formularza.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Ważność zabezpieczonego formularza wygasła. Poproś agenta o ponowne przesłanie formularza.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Ten formularz został już przesłany i ze względów bezpieczeństwa nie można go ponownie otwierać.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">To jest bezpieczny formularz. Podane tu informacje są zabezpieczone i po ich przesłaniu dostęp do nich nie jest już możliwy.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Ten formularz był już wyświetlany. Poproś agenta o ponowne przesłanie formularza.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Przesyłanie obrazu...</string>
 </resources>

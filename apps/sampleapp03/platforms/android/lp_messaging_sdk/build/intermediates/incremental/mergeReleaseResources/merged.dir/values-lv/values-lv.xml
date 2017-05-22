@@ -54,6 +54,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
     <string name="brand_name">Mans zīmols</string>
+    <string name="downloading_image">Lejupielādē attēlu…</string>
     <string name="lp_accessibility_agent">Aģents</string>
     <string name="lp_accessibility_agent_icon">Aģenta ikona</string>
     <string name="lp_accessibility_attachment_menu">Pielikuma izvēlne</string>
@@ -65,15 +66,19 @@
     <string name="lp_accessibility_gallery">Galerija</string>
     <string name="lp_accessibility_image">Attēls</string>
     <string name="lp_accessibility_image_caption">Attēla paraksts</string>
+    <string name="lp_accessibility_message_preview_close_description">Aizvērt</string>
     <string name="lp_accessibility_new_agent_message">Jauns aģenta ziņojums: </string>
     <string name="lp_accessibility_new_system_message">Jauns sistēmas ziņojums: </string>
     <string name="lp_accessibility_photo">foto</string>
     <string name="lp_accessibility_photo_preview">Foto priekšskatījums</string>
     <string name="lp_accessibility_received">saņemts</string>
     <string name="lp_accessibility_resend">Nosūtīt atkārtoti</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">ritināt lejup</string>
     <string name="lp_accessibility_selected">atlasīts</string>
     <string name="lp_accessibility_you">Jūs</string>
     <string name="lp_add_a_caption">Pievienot parakstu</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerija</string>
     <string name="lp_cancel">Atcelt</string>
     <string name="lp_clear_history_dialog_message">Visa jūsu sarunu vēsture tiks dzēsta. Vai esat pārliecināti?</string>
     <string name="lp_clear_history_dialog_positive_button">Notīrīt</string>
@@ -142,6 +147,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Pateicamies par jūsu ziņojumu. Mēs būsim atpakaļ tiešsaistē rītdien plkst. %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Aģents atbildēs tuvākajās %1$s</string>
     <string name="lp_yesterday">Vakar</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Aizpildiet veidlapu</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">PALIKT</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">Labi</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Kad atstāsit drošo veidlapu, jūs vairs nevarēsit tai piekļūt.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Vai esat pārliecināti?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Radās problēma, atverot šo veidlapu. Lūdzu, prasiet aģentam nosūtīt veidlapu vēlreiz.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Drošās veidlapas derīguma termiņš ir beidzies. Lūdzu, prasiet aģentam nosūtīt veidlapu vēlreiz.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Šī veidlapa ir nosūtīta, un drošības iemeslu dēļ to nevar atvērt atkārtoti.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Šī ir droša veidlapa. Šeit ievadītā informācija ir aizsargāta, un pēc nosūtīšanas tai vairs nav iespējams piekļūt.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Šī veidlapa jau ir skatīta. Lūdzu, prasiet aģentam nosūtīt veidlapu vēlreiz.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Augšupielādē attēlu…</string>
 </resources>

@@ -24,7 +24,7 @@
         <uses-library android:name="android.test.runner" />
 
         <service
-            android:name="com.liveperson.messaging.background.PhotoUploadService"
+            android:name="com.liveperson.messaging.background.BackgroundActionsService"
             android:exported="false" />
 
         <activity

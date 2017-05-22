@@ -31,6 +31,7 @@
        <item quantity="other">"%1$d LUGEMATA SÕNUMIT"</item>
    </plurals>
     <string name="brand_name">Minu bränd</string>
+    <string name="downloading_image">Pildi allalaadimine...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Agendi ikoon</string>
     <string name="lp_accessibility_attachment_menu">Manusemenüü</string>
@@ -42,15 +43,19 @@
     <string name="lp_accessibility_gallery">Galerii</string>
     <string name="lp_accessibility_image">Pilt</string>
     <string name="lp_accessibility_image_caption">Pildi pealdis</string>
+    <string name="lp_accessibility_message_preview_close_description">Sulge</string>
     <string name="lp_accessibility_new_agent_message">Uus agendi sõnum: </string>
     <string name="lp_accessibility_new_system_message">Uus süsteemiteade: </string>
     <string name="lp_accessibility_photo">foto</string>
     <string name="lp_accessibility_photo_preview">Foto eelvaade</string>
     <string name="lp_accessibility_received">vastu võetud</string>
     <string name="lp_accessibility_resend">Saada uuesti</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">keri alla</string>
     <string name="lp_accessibility_selected">valitud</string>
     <string name="lp_accessibility_you">Teie</string>
     <string name="lp_add_a_caption">Lisa pealdis</string>
+    <string name="lp_attachment_menu_camera_item_text">Kaamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerii</string>
     <string name="lp_cancel">Tühista</string>
     <string name="lp_clear_history_dialog_message">Kogu teie olemasolev vestluste ajalugu kustutatakse. Olete kindel?</string>
     <string name="lp_clear_history_dialog_positive_button">Kustuta</string>
@@ -119,4 +124,16 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Täname sõnumi eest. Me oleme onlainis homme kell %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Agent vastab järgmise %1$s jooksul</string>
     <string name="lp_yesterday">Eile</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Täida vorm</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">PÜSI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Kui jätate turvavormi, ei saa te sellele uuesti ligipääseda.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Olete kindel?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Selle vormi avamisel tekkis probleem. Paluge agendil vorm uuesti saata.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Turvavorm on aegunud. Paluge agendil vorm uuesti saata.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">See vorm on edastatud ja seda ei saa turvakaalutlustel uuesti avada.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">See on turvaline ankeet. Siia sisestatud info on kaitstud ja sellele ei pääse peale sisestamist juurde.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Seda vormi on juba vaadatud. Paluge agendil vorm uuesti saata.</string>
+    <string name="uploading_image">Pildi üleslaadimine...</string>
 </resources>

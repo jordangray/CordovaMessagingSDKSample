@@ -4,6 +4,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:importantForAccessibility="no"
+
     >
 
     <ImageView
@@ -35,6 +37,10 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="@+id/scroll_down_indicator_background"
         android:elevation="@dimen/margin_half"
+        android:focusable="false"
+        android:clickable="false"
+        android:importantForAccessibility="no"
+
         />
 
 
@@ -50,6 +56,10 @@
         app:layout_constraintBottom_toBottomOf="@+id/scroll_down_indicator_background"
         android:layout_marginBottom="20dp"
         android:elevation="@dimen/margin_half"
+        android:focusable="false"
+        android:clickable="false"
+        android:importantForAccessibility="no"
+
         />
 
     <TextView
@@ -69,5 +79,10 @@
         app:layout_constraintTop_toTopOf="@+id/scroll_down_indicator_background"
         android:elevation="@dimen/margin_half"
         android:layout_marginStart="@dimen/margin_regular"
-        android:layout_marginLeft="@dimen/margin_regular" />
+        android:layout_marginLeft="@dimen/margin_regular"
+        android:focusable="false"
+        android:clickable="false"
+        android:importantForAccessibility="no"
+
+        />
 </android.support.constraint.ConstraintLayout>

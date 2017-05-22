@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
     <string name="brand_name">Моята марка</string>
+    <string name="downloading_image">Изображението се изтегля...</string>
     <string name="lp_accessibility_agent">Агент</string>
     <string name="lp_accessibility_agent_icon">Икона агент</string>
     <string name="lp_accessibility_attachment_menu">Меню за прикачвания</string>
@@ -61,14 +62,18 @@
     <string name="lp_accessibility_gallery">Галерия</string>
     <string name="lp_accessibility_image">Изображение</string>
     <string name="lp_accessibility_image_caption">Заглавие на изображение</string>
+    <string name="lp_accessibility_message_preview_close_description">Затваряне</string>
     <string name="lp_accessibility_new_agent_message">Ново съобщение на агента: </string>
     <string name="lp_accessibility_new_system_message">Ново системно съобщение: </string>
     <string name="lp_accessibility_photo">снимка</string>
     <string name="lp_accessibility_photo_preview">Фото преглед</string>
     <string name="lp_accessibility_received">получено</string>
     <string name="lp_accessibility_resend">Повторно изпращане</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">превъртете надолу</string>
     <string name="lp_accessibility_selected">маркирано</string>
     <string name="lp_add_a_caption">Добавяне на заглавие</string>
+    <string name="lp_attachment_menu_camera_item_text">Камера</string>
+    <string name="lp_attachment_menu_gallery_item_text">Галерия</string>
     <string name="lp_cancel">Отмяна</string>
     <string name="lp_clear_history_dialog_message">Цялата ви съществуваща история ще се загуби. Сигурни ли сте?</string>
     <string name="lp_clear_history_dialog_positive_button">Изчистване</string>
@@ -137,6 +142,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Благодарим за съобщението. Ще бъдем отново онлайн утре в %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Представителят ще Ви отговори в рамките на следващите %1$s</string>
     <string name="lp_yesterday">Вчера</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Попълнете формуляра</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ОСТАНЕТЕ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">ОК</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">След напускане на защитения формуляр, повече няма да имате достъп до него.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Сигурни ли сте?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Възникна проблем при отварянето на този формуляр. Помолете агента да изпрати формуляра отново.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Срокът на защитения формуляр е изтекъл. Помолете агента да изпрати формуляра отново.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Този формуляр е подаден и не може да се отвори отново от съображения за сигурност.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Това е безопасен формуляр. Въведената тук информация е защитена и не може да бъде достъпна след подаването ѝ.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Този формуляр вече е прегледан. Помолете агента да изпрати формуляра отново.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Търсене"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Изображението се качва...</string>
 </resources>

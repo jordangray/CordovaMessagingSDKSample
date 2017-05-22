@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="infra-">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/07c01172738c479d0e36678ddc47a718debab747/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/07c01172738c479d0e36678ddc47a718debab747/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/5ef898d874c1cd2a639b4a286477189636f21630/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5ef898d874c1cd2a639b4a286477189636f21630/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

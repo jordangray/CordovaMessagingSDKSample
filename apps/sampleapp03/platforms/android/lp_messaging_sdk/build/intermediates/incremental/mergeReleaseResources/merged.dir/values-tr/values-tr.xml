@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
     <string name="brand_name">Markam</string>
+    <string name="downloading_image">Resim indiriliyor...</string>
     <string name="lp_accessibility_agent">Ajan</string>
     <string name="lp_accessibility_agent_icon">Ajan simgesi</string>
     <string name="lp_accessibility_attachment_menu">Eklenti menüsü</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galeri</string>
     <string name="lp_accessibility_image">Resim</string>
     <string name="lp_accessibility_image_caption">Resim yazısı</string>
+    <string name="lp_accessibility_message_preview_close_description">Kapat</string>
     <string name="lp_accessibility_new_agent_message">Yeni ajan mesajı: </string>
     <string name="lp_accessibility_new_system_message">Yeni sistem mesajı: </string>
     <string name="lp_accessibility_photo">fotoğraf</string>
     <string name="lp_accessibility_photo_preview">Fotoğraf ön izleme</string>
     <string name="lp_accessibility_received">alındı</string>
     <string name="lp_accessibility_resend">Tekrar gönder</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">aşağı kaydır</string>
     <string name="lp_accessibility_selected">seçildi</string>
     <string name="lp_accessibility_you">Sen</string>
     <string name="lp_add_a_caption">Yazı ekleyin</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galeri</string>
     <string name="lp_cancel">İptal</string>
     <string name="lp_clear_history_dialog_message">Tüm mevcut görüşme geçmişiniz kaybedilecek. Emin misiniz?</string>
     <string name="lp_clear_history_dialog_positive_button">Temizle</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">"Mesajınız için teşekkürler. Yarın saat %1$s'te tekrar çevrimiçi olacağız"</string>
     <string name="lp_ttr_message_with_timestamp">Bir temsilci önümüzdeki %1$s içinde yanıt verecektir</string>
     <string name="lp_yesterday">Dün</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Formu doldur</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">KAL</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">TAMAM</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Güvenli formdan çıkarsanız, yeniden erişemeyeceksiniz.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Emin misiniz?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Bu form açılırken bir sorun oluştu. Yine formu göndermek için temsilcisine isteyin</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Güvenli formun süresi doldu. Yine formu göndermek için temsilcisine isteyin</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Bu form gönderildi ve güvenlik gerekçeleriyle yeniden açılamaz.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Bu güvenli bir formdur. Buraya girilen bilgiler korumalıdır ve gönderildikten sonra bunlara erişilemez.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Bu form daha önce görüntülendi. Yine formu göndermek için temsilcisine isteyin</string>
     <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Resim yükleniyor...</string>
 </resources>

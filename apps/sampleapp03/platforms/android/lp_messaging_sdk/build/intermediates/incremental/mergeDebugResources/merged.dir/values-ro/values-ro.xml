@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
     <string name="brand_name">Brandul meu</string>
+    <string name="downloading_image">Descărcare imagine...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Pictogramă de Agent</string>
     <string name="lp_accessibility_attachment_menu">Meniu atașament</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galerie</string>
     <string name="lp_accessibility_image">Imagine</string>
     <string name="lp_accessibility_image_caption">Subtitlu imagine</string>
+    <string name="lp_accessibility_message_preview_close_description">Închide</string>
     <string name="lp_accessibility_new_agent_message">Mesaj agent nou: </string>
     <string name="lp_accessibility_new_system_message">Mesaj sistem nou: </string>
     <string name="lp_accessibility_photo">fotografie</string>
     <string name="lp_accessibility_photo_preview">Vizionare fotografie</string>
     <string name="lp_accessibility_received">primit</string>
     <string name="lp_accessibility_resend">Retrimite</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">dați scroll în jos</string>
     <string name="lp_accessibility_selected">selectat</string>
     <string name="lp_accessibility_you">Tu</string>
     <string name="lp_add_a_caption">Adaugă o legendă</string>
+    <string name="lp_attachment_menu_camera_item_text">Aparat foto</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerie</string>
     <string name="lp_cancel">Anulează</string>
     <string name="lp_clear_history_dialog_message">Tot istoricul conversațiilor dv. va fi șters. Sunteți sigur(ă)?</string>
     <string name="lp_clear_history_dialog_positive_button">Șterge</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Vă mulțumim pentru mesaj. Vom fi din nou online mâine la %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Vă va răspunde un agent în următoarele %1$s</string>
     <string name="lp_yesterday">Ieri</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Completați formularul</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">RĂMÂNEȚI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">După ieșirea din formularul securizat, nu veți mai putea să îl accesați.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Sunteți sigur(ă)?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">La deschiderea formularului a intervenit o problemă. Solicitați agentului să retrimită formularul.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Formularul securizat a expirat. Solicitați agentului să retrimită formularul.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Acest formular a fost transmis și din motive de securitate nu mai poate fi deschis.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Acesta este un formular securizat. Informațiile introduse sunt protejate și după transmitere nu mai pot fi accesate.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Acest formular a fost deja vizualizat. Solicitați agentului să retrimită formularul.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="uploading_image">Încărcare imagine...</string>
 </resources>

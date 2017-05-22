@@ -54,6 +54,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant „%s“"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sutraukti"</string>
     <string name="brand_name">Mano prekės ženklas</string>
+    <string name="downloading_image">Atsisiunčiamas vaizdas...</string>
     <string name="lp_accessibility_agent">Agentas</string>
     <string name="lp_accessibility_agent_icon">Agento Piktograma</string>
     <string name="lp_accessibility_attachment_menu">Priedų sąrašas</string>
@@ -65,15 +66,19 @@
     <string name="lp_accessibility_gallery">Galerija</string>
     <string name="lp_accessibility_image">Paveikslėlis</string>
     <string name="lp_accessibility_image_caption">Paveikslėlio pavadinimas</string>
+    <string name="lp_accessibility_message_preview_close_description">Užverti</string>
     <string name="lp_accessibility_new_agent_message">Naujas agento pranešimas: </string>
     <string name="lp_accessibility_new_system_message">Naujas sistemos pranešimas: </string>
     <string name="lp_accessibility_photo">nuotrauka</string>
     <string name="lp_accessibility_photo_preview">Nuotraukų peržiūra</string>
     <string name="lp_accessibility_received">gauta</string>
     <string name="lp_accessibility_resend">Siųsti iš naujo</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">slinkti žemyn</string>
     <string name="lp_accessibility_selected">išrinkta</string>
     <string name="lp_accessibility_you">Jūs</string>
     <string name="lp_add_a_caption">Pridėti pavadinimą</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerija</string>
     <string name="lp_cancel">Atšaukti</string>
     <string name="lp_clear_history_dialog_message">Visa jūsų esama pokalbių retrospektyva dings. Ar tikrai norite tai padaryti?</string>
     <string name="lp_clear_history_dialog_positive_button">Išvalyti</string>
@@ -142,6 +147,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Dėkojame už žinutę. Mes vėl prisijungsime rytoj %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Agentas atsilieps per %1$s</string>
     <string name="lp_yesterday">Vakar</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Pildyti formą</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">LIKTI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">Gerai</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Užvėrę saugią formą, jos pasiekti nebegalėsite.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Ar tikrai norite tai padaryti?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Atveriant šią formą kilo problemų. Paprašykite agento pakartotinai išsiųsti formą.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Saugi forma baigė galioti. Paprašykite agento pakartotinai išsiųsti formą.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Ši forma pateikta, saugumo sumetimais jos vėl atverti negalima.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Tai yra saugi forma. Čia įvesta informacija apsaugoma, pateikus jos nebebus galima pasiekti.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Ši forma jau peržiūrėta. Paprašykite agento pakartotinai išsiųsti formą.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Paieška"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Nusiunčiamas vaizdas...</string>
 </resources>

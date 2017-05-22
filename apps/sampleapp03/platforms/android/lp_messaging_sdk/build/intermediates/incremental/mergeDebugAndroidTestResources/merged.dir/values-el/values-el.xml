@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
     <string name="brand_name">Η Επωνυμία μου</string>
+    <string name="downloading_image">Λήψη εικόνας...</string>
     <string name="lp_accessibility_agent">Πράκτορας</string>
     <string name="lp_accessibility_agent_icon">Εικονίδιο Πράκτορα</string>
     <string name="lp_accessibility_attachment_menu">Μενού Συνημμένων</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Έκθεση</string>
     <string name="lp_accessibility_image">Εικόνα</string>
     <string name="lp_accessibility_image_caption">Λεζάντα εικόνας</string>
+    <string name="lp_accessibility_message_preview_close_description">Κλείσιμο</string>
     <string name="lp_accessibility_new_agent_message">Νέο μήνυμα πράκτορα: </string>
     <string name="lp_accessibility_new_system_message">Νέο μήνυμα συστήματος: </string>
     <string name="lp_accessibility_photo">photo</string>
     <string name="lp_accessibility_photo_preview">Προεπισκόπηση φωτογραφίας</string>
     <string name="lp_accessibility_received">ελήφθη</string>
     <string name="lp_accessibility_resend">Αποστολή ξανά</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">κύλιση προς τα κάτω</string>
     <string name="lp_accessibility_selected">επελέγη</string>
     <string name="lp_accessibility_you">Εσείς</string>
     <string name="lp_add_a_caption">Προσθέστε μια λεζάντα</string>
+    <string name="lp_attachment_menu_camera_item_text">Κάμερα</string>
+    <string name="lp_attachment_menu_gallery_item_text">Έκθεση</string>
     <string name="lp_cancel">Ακύρωση</string>
     <string name="lp_clear_history_dialog_message">Όλο το ιστορικό των συνομιλιών σας θα χαθεί. Είστε σίγουροι;</string>
     <string name="lp_clear_history_dialog_positive_button">Εκκαθάριση</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Σας ευχαριστούμε για το μήνυμα. Θα είμαστε σε σύνδεση ξανά αύριο στις %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Ένας εκπρόσωπος θα απαντήσει σε %1$s</string>
     <string name="lp_yesterday">Χθες</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Συμπλήρωση φόρμας</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">ΠΑΡΑΜΟΝΗ</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Εάν κλείσετε τη φόρμα ασφαλείας, δεν θα μπορέσετε να έχετε ξανά πρόσβαση σε αυτήν.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Είστε βέβαιοι;</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Παρουσιάστηκε πρόβλημα κατά το άνοιγμα της φόρμας. Ζητήστε από τον εκπρόσωπο να σας στείλει ξανά τη φόρμα.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Η φόρμα ασφαλείας έχει λήξει. Ζητήστε από τον εκπρόσωπο να σας στείλει ξανά τη φόρμα.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Αυτή η φόρμα έχει υποβληθεί και δεν μπορεί να ανοίξει ξανά για λόγους ασφαλείας.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Αυτή είναι μια φόρμα ασφαλείας. Οι πληροφορίες που εισάγετε εδώ προστατεύονται και δεν είναι δυνατή η πρόσβαση σε αυτές μετά την υποβολή τους.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Έχετε προβάλει ήδη αυτήν τη φόρμα. Ζητήστε από τον εκπρόσωπο να σας στείλει ξανά τη φόρμα.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Φόρτωση εικόνας...</string>
 </resources>

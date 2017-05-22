@@ -12,7 +12,7 @@
                     "endOffset": 329
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 563
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 880
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1039
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 1220
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -498,7 +498,7 @@
                     "endOffset": 3186
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -513,11 +513,30 @@
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 3191,
-                    "endColumn": 58,
-                    "endOffset": 3245
+                    "endColumn": 66,
+                    "endOffset": 3253
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 66,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3258,
+                    "endColumn": 58,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -529,14 +548,14 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3250,
+                    "startOffset": 3317,
                     "endColumn": 68,
-                    "endOffset": 3314
+                    "endOffset": 3381
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -548,14 +567,14 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3319,
+                    "startOffset": 3386,
                     "endColumn": 68,
-                    "endOffset": 3383
+                    "endOffset": 3450
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -567,14 +586,14 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 3388,
+                    "startOffset": 3455,
                     "endColumn": 92,
-                    "endOffset": 3476
+                    "endOffset": 3543
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -586,14 +605,14 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 3481,
+                    "startOffset": 3548,
                     "endColumn": 92,
-                    "endOffset": 3569
+                    "endOffset": 3636
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -605,14 +624,14 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 3574,
+                    "startOffset": 3641,
                     "endColumn": 57,
-                    "endOffset": 3627
+                    "endOffset": 3694
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -624,14 +643,14 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 3632,
+                    "startOffset": 3699,
                     "endColumn": 68,
-                    "endOffset": 3696
+                    "endOffset": 3763
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -643,14 +662,14 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 3701,
+                    "startOffset": 3768,
                     "endColumn": 63,
-                    "endOffset": 3760
+                    "endOffset": 3827
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -662,14 +681,14 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 3765,
+                    "startOffset": 3832,
                     "endColumn": 61,
-                    "endOffset": 3822
+                    "endOffset": 3889
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -681,14 +700,14 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 3827,
+                    "startOffset": 3894,
                     "endColumn": 54,
-                    "endOffset": 3877
+                    "endOffset": 3944
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -700,14 +719,14 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 3882,
+                    "startOffset": 3949,
                     "endColumn": 70,
-                    "endOffset": 3948
+                    "endOffset": 4015
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -719,14 +738,33 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 3953,
-                    "endColumn": 83,
-                    "endOffset": 4032
+                    "startOffset": 4020,
+                    "endColumn": 82,
+                    "endOffset": 4098
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 82,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4103,
+                    "endColumn": 83,
+                    "endOffset": 4182
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -738,14 +776,14 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 4037,
+                    "startOffset": 4187,
                     "endColumn": 81,
-                    "endOffset": 4114
+                    "endOffset": 4264
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -757,14 +795,14 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 4119,
+                    "startOffset": 4269,
                     "endColumn": 58,
-                    "endOffset": 4173
+                    "endOffset": 4323
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -776,14 +814,14 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 4178,
+                    "startOffset": 4328,
                     "endColumn": 72,
-                    "endOffset": 4246
+                    "endOffset": 4396
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -795,14 +833,14 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 4251,
+                    "startOffset": 4401,
                     "endColumn": 60,
-                    "endOffset": 4307
+                    "endOffset": 4457
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -814,14 +852,14 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 4312,
+                    "startOffset": 4462,
                     "endColumn": 59,
-                    "endOffset": 4367
+                    "endOffset": 4517
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -833,58 +871,20 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 4372,
-                    "endColumn": 62,
-                    "endOffset": 4430
+                    "startOffset": 4522,
+                    "endColumn": 87,
+                    "endOffset": 4605
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
                         "startOffset": 2022,
-                        "endColumn": 62,
-                        "endOffset": 2080
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 70,
-                    "startColumn": 4,
-                    "startOffset": 4435,
-                    "endColumn": 52,
-                    "endOffset": 4483
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 2085,
-                        "endColumn": 52,
-                        "endOffset": 2133
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 71,
-                    "startColumn": 4,
-                    "startOffset": 4488,
-                    "endColumn": 58,
-                    "endOffset": 4542
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 4,
-                        "startOffset": 2138,
-                        "endColumn": 58,
-                        "endOffset": 2192
+                        "endColumn": 87,
+                        "endOffset": 2105
                     }
                 }
             },
@@ -892,18 +892,18 @@
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 4547,
-                    "endColumn": 44,
-                    "endOffset": 4587
+                    "startOffset": 4610,
+                    "endColumn": 62,
+                    "endOffset": 4668
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 46,
+                        "startLine": 44,
                         "startColumn": 4,
-                        "startOffset": 2197,
-                        "endColumn": 44,
-                        "endOffset": 2237
+                        "startOffset": 2110,
+                        "endColumn": 62,
+                        "endOffset": 2168
                     }
                 }
             },
@@ -911,18 +911,18 @@
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 4592,
-                    "endColumn": 112,
-                    "endOffset": 4700
+                    "startOffset": 4673,
+                    "endColumn": 52,
+                    "endOffset": 4721
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 47,
+                        "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 2242,
-                        "endColumn": 112,
-                        "endOffset": 2350
+                        "startOffset": 2173,
+                        "endColumn": 52,
+                        "endOffset": 2221
                     }
                 }
             },
@@ -930,18 +930,18 @@
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 4705,
-                    "endColumn": 72,
-                    "endOffset": 4773
+                    "startOffset": 4726,
+                    "endColumn": 58,
+                    "endOffset": 4780
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 48,
+                        "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 2355,
-                        "endColumn": 72,
-                        "endOffset": 2423
+                        "startOffset": 2226,
+                        "endColumn": 58,
+                        "endOffset": 2280
                     }
                 }
             },
@@ -949,18 +949,18 @@
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 4778,
+                    "startOffset": 4785,
                     "endColumn": 69,
-                    "endOffset": 4843
+                    "endOffset": 4850
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 49,
+                        "startLine": 47,
                         "startColumn": 4,
-                        "startOffset": 2428,
+                        "startOffset": 2285,
                         "endColumn": 69,
-                        "endOffset": 2493
+                        "endOffset": 2350
                     }
                 }
             },
@@ -968,18 +968,18 @@
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 4848,
-                    "endColumn": 66,
-                    "endOffset": 4910
+                    "startOffset": 4855,
+                    "endColumn": 73,
+                    "endOffset": 4924
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 50,
+                        "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 2498,
-                        "endColumn": 66,
-                        "endOffset": 2560
+                        "startOffset": 2355,
+                        "endColumn": 73,
+                        "endOffset": 2424
                     }
                 }
             },
@@ -987,18 +987,18 @@
                 "to": {
                     "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 4915,
-                    "endColumn": 75,
-                    "endOffset": 4986
+                    "startOffset": 4929,
+                    "endColumn": 44,
+                    "endOffset": 4969
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 51,
+                        "startLine": 49,
                         "startColumn": 4,
-                        "startOffset": 2565,
-                        "endColumn": 75,
-                        "endOffset": 2636
+                        "startOffset": 2429,
+                        "endColumn": 44,
+                        "endOffset": 2469
                     }
                 }
             },
@@ -1006,18 +1006,18 @@
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 4991,
+                    "startOffset": 4974,
                     "endColumn": 112,
-                    "endOffset": 5099
+                    "endOffset": 5082
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 2641,
+                        "startOffset": 2474,
                         "endColumn": 112,
-                        "endOffset": 2749
+                        "endOffset": 2582
                     }
                 }
             },
@@ -1025,18 +1025,18 @@
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 5104,
-                    "endColumn": 110,
-                    "endOffset": 5210
+                    "startOffset": 5087,
+                    "endColumn": 72,
+                    "endOffset": 5155
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 53,
+                        "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 2754,
-                        "endColumn": 110,
-                        "endOffset": 2860
+                        "startOffset": 2587,
+                        "endColumn": 72,
+                        "endOffset": 2655
                     }
                 }
             },
@@ -1044,18 +1044,18 @@
                 "to": {
                     "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 5215,
-                    "endColumn": 83,
-                    "endOffset": 5294
+                    "startOffset": 5160,
+                    "endColumn": 69,
+                    "endOffset": 5225
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 54,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 2865,
-                        "endColumn": 83,
-                        "endOffset": 2944
+                        "startOffset": 2660,
+                        "endColumn": 69,
+                        "endOffset": 2725
                     }
                 }
             },
@@ -1063,18 +1063,18 @@
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 5299,
-                    "endColumn": 107,
-                    "endOffset": 5402
+                    "startOffset": 5230,
+                    "endColumn": 66,
+                    "endOffset": 5292
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 236,
-                        "endColumn": 107,
-                        "endOffset": 339
+                        "startOffset": 2730,
+                        "endColumn": 66,
+                        "endOffset": 2792
                     }
                 }
             },
@@ -1082,18 +1082,18 @@
                 "to": {
                     "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 5407,
-                    "endColumn": 107,
-                    "endOffset": 5510
+                    "startOffset": 5297,
+                    "endColumn": 75,
+                    "endOffset": 5368
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 344,
-                        "endColumn": 107,
-                        "endOffset": 447
+                        "startOffset": 2797,
+                        "endColumn": 75,
+                        "endOffset": 2868
                     }
                 }
             },
@@ -1101,18 +1101,18 @@
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 5515,
-                    "endColumn": 92,
-                    "endOffset": 5603
+                    "startOffset": 5373,
+                    "endColumn": 112,
+                    "endOffset": 5481
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 452,
-                        "endColumn": 92,
-                        "endOffset": 540
+                        "startOffset": 2873,
+                        "endColumn": 112,
+                        "endOffset": 2981
                     }
                 }
             },
@@ -1120,18 +1120,18 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 5608,
-                    "endColumn": 40,
-                    "endOffset": 5644
+                    "startOffset": 5486,
+                    "endColumn": 110,
+                    "endOffset": 5592
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 545,
-                        "endColumn": 40,
-                        "endOffset": 581
+                        "startOffset": 2986,
+                        "endColumn": 110,
+                        "endOffset": 3092
                     }
                 }
             },
@@ -1139,18 +1139,18 @@
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 5649,
-                    "endColumn": 69,
-                    "endOffset": 5714
+                    "startOffset": 5597,
+                    "endColumn": 83,
+                    "endOffset": 5676
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 55,
+                        "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 2949,
-                        "endColumn": 69,
-                        "endOffset": 3014
+                        "startOffset": 3097,
+                        "endColumn": 83,
+                        "endOffset": 3176
                     }
                 }
             },
@@ -1158,18 +1158,18 @@
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 5719,
-                    "endColumn": 71,
-                    "endOffset": 5786
+                    "startOffset": 5681,
+                    "endColumn": 107,
+                    "endOffset": 5784
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 56,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 3019,
-                        "endColumn": 71,
-                        "endOffset": 3086
+                        "startOffset": 303,
+                        "endColumn": 107,
+                        "endOffset": 406
                     }
                 }
             },
@@ -1177,18 +1177,18 @@
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 5791,
-                    "endColumn": 117,
-                    "endOffset": 5904
+                    "startOffset": 5789,
+                    "endColumn": 107,
+                    "endOffset": 5892
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 57,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 3091,
-                        "endColumn": 117,
-                        "endOffset": 3204
+                        "startOffset": 411,
+                        "endColumn": 107,
+                        "endOffset": 514
                     }
                 }
             },
@@ -1196,18 +1196,18 @@
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 5909,
-                    "endColumn": 123,
-                    "endOffset": 6028
+                    "startOffset": 5897,
+                    "endColumn": 92,
+                    "endOffset": 5985
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 58,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 3209,
-                        "endColumn": 123,
-                        "endOffset": 3328
+                        "startOffset": 519,
+                        "endColumn": 92,
+                        "endOffset": 607
                     }
                 }
             },
@@ -1215,18 +1215,18 @@
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 6033,
-                    "endColumn": 41,
-                    "endOffset": 6070
+                    "startOffset": 5990,
+                    "endColumn": 40,
+                    "endOffset": 6026
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 59,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 3333,
-                        "endColumn": 41,
-                        "endOffset": 3370
+                        "startOffset": 612,
+                        "endColumn": 40,
+                        "endOffset": 648
                     }
                 }
             },
@@ -1234,18 +1234,18 @@
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 6075,
-                    "endColumn": 42,
-                    "endOffset": 6113
+                    "startOffset": 6031,
+                    "endColumn": 69,
+                    "endOffset": 6096
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 60,
+                        "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3375,
-                        "endColumn": 42,
-                        "endOffset": 3413
+                        "startOffset": 3181,
+                        "endColumn": 69,
+                        "endOffset": 3246
                     }
                 }
             },
@@ -1253,18 +1253,18 @@
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 6118,
-                    "endColumn": 61,
-                    "endOffset": 6175
+                    "startOffset": 6101,
+                    "endColumn": 71,
+                    "endOffset": 6168
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 61,
+                        "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 3418,
-                        "endColumn": 61,
-                        "endOffset": 3475
+                        "startOffset": 3251,
+                        "endColumn": 71,
+                        "endOffset": 3318
                     }
                 }
             },
@@ -1272,18 +1272,18 @@
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 6180,
-                    "endColumn": 75,
-                    "endOffset": 6251
+                    "startOffset": 6173,
+                    "endColumn": 117,
+                    "endOffset": 6286
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 62,
+                        "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 3480,
-                        "endColumn": 75,
-                        "endOffset": 3551
+                        "startOffset": 3323,
+                        "endColumn": 117,
+                        "endOffset": 3436
                     }
                 }
             },
@@ -1291,18 +1291,18 @@
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 6256,
-                    "endColumn": 57,
-                    "endOffset": 6309
+                    "startOffset": 6291,
+                    "endColumn": 123,
+                    "endOffset": 6410
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 61,
                         "startColumn": 4,
-                        "startOffset": 310,
-                        "endColumn": 57,
-                        "endOffset": 363
+                        "startOffset": 3441,
+                        "endColumn": 123,
+                        "endOffset": 3560
                     }
                 }
             },
@@ -1310,18 +1310,18 @@
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 6314,
-                    "endColumn": 84,
-                    "endOffset": 6394
+                    "startOffset": 6415,
+                    "endColumn": 41,
+                    "endOffset": 6452
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 586,
-                        "endColumn": 84,
-                        "endOffset": 666
+                        "startOffset": 3565,
+                        "endColumn": 41,
+                        "endOffset": 3602
                     }
                 }
             },
@@ -1329,18 +1329,18 @@
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 6399,
-                    "endColumn": 80,
-                    "endOffset": 6475
+                    "startOffset": 6457,
+                    "endColumn": 42,
+                    "endOffset": 6495
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 671,
-                        "endColumn": 80,
-                        "endOffset": 747
+                        "startOffset": 3607,
+                        "endColumn": 42,
+                        "endOffset": 3645
                     }
                 }
             },
@@ -1348,18 +1348,18 @@
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 6480,
-                    "endColumn": 52,
-                    "endOffset": 6528
+                    "startOffset": 6500,
+                    "endColumn": 61,
+                    "endOffset": 6557
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 65,
+                        "startLine": 64,
                         "startColumn": 4,
-                        "startOffset": 3722,
-                        "endColumn": 52,
-                        "endOffset": 3770
+                        "startOffset": 3650,
+                        "endColumn": 61,
+                        "endOffset": 3707
                     }
                 }
             },
@@ -1367,18 +1367,18 @@
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 6533,
-                    "endColumn": 49,
-                    "endOffset": 6578
+                    "startOffset": 6562,
+                    "endColumn": 75,
+                    "endOffset": 6633
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 66,
+                        "startLine": 65,
                         "startColumn": 4,
-                        "startOffset": 3775,
-                        "endColumn": 49,
-                        "endOffset": 3820
+                        "startOffset": 3712,
+                        "endColumn": 75,
+                        "endOffset": 3783
                     }
                 }
             },
@@ -1386,18 +1386,18 @@
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 6583,
-                    "endColumn": 46,
-                    "endOffset": 6625
+                    "startOffset": 6638,
+                    "endColumn": 57,
+                    "endOffset": 6691
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 67,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 3825,
-                        "endColumn": 46,
-                        "endOffset": 3867
+                        "startOffset": 393,
+                        "endColumn": 57,
+                        "endOffset": 446
                     }
                 }
             },
@@ -1405,18 +1405,18 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 6630,
-                    "endColumn": 46,
-                    "endOffset": 6672
+                    "startOffset": 6696,
+                    "endColumn": 84,
+                    "endOffset": 6776
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 68,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 3872,
-                        "endColumn": 46,
-                        "endOffset": 3914
+                        "startOffset": 653,
+                        "endColumn": 84,
+                        "endOffset": 733
                     }
                 }
             },
@@ -1424,18 +1424,18 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 6677,
-                    "endColumn": 49,
-                    "endOffset": 6722
+                    "startOffset": 6781,
+                    "endColumn": 80,
+                    "endOffset": 6857
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 69,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 3919,
-                        "endColumn": 49,
-                        "endOffset": 3964
+                        "startOffset": 738,
+                        "endColumn": 80,
+                        "endOffset": 814
                     }
                 }
             },
@@ -1443,18 +1443,18 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 6727,
-                    "endColumn": 98,
-                    "endOffset": 6821
+                    "startOffset": 6862,
+                    "endColumn": 52,
+                    "endOffset": 6910
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 70,
+                        "startLine": 68,
                         "startColumn": 4,
-                        "startOffset": 3969,
-                        "endColumn": 98,
-                        "endOffset": 4063
+                        "startOffset": 3954,
+                        "endColumn": 52,
+                        "endOffset": 4002
                     }
                 }
             },
@@ -1462,18 +1462,18 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 6826,
-                    "endColumn": 50,
-                    "endOffset": 6872
+                    "startOffset": 6915,
+                    "endColumn": 49,
+                    "endOffset": 6960
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 71,
+                        "startLine": 69,
                         "startColumn": 4,
-                        "startOffset": 4068,
-                        "endColumn": 50,
-                        "endOffset": 4114
+                        "startOffset": 4007,
+                        "endColumn": 49,
+                        "endOffset": 4052
                     }
                 }
             },
@@ -1481,18 +1481,18 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 6877,
-                    "endColumn": 167,
-                    "endOffset": 7040
+                    "startOffset": 6965,
+                    "endColumn": 46,
+                    "endOffset": 7007
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 72,
+                        "startLine": 70,
                         "startColumn": 4,
-                        "startOffset": 4119,
-                        "endColumn": 167,
-                        "endOffset": 4282
+                        "startOffset": 4057,
+                        "endColumn": 46,
+                        "endOffset": 4099
                     }
                 }
             },
@@ -1500,18 +1500,18 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 7045,
-                    "endColumn": 82,
-                    "endOffset": 7123
+                    "startOffset": 7012,
+                    "endColumn": 46,
+                    "endOffset": 7054
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 73,
+                        "startLine": 71,
                         "startColumn": 4,
-                        "startOffset": 4287,
-                        "endColumn": 82,
-                        "endOffset": 4365
+                        "startOffset": 4104,
+                        "endColumn": 46,
+                        "endOffset": 4146
                     }
                 }
             },
@@ -1519,18 +1519,18 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 7128,
-                    "endColumn": 64,
-                    "endOffset": 7188
+                    "startOffset": 7059,
+                    "endColumn": 49,
+                    "endOffset": 7104
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 74,
+                        "startLine": 72,
                         "startColumn": 4,
-                        "startOffset": 4370,
-                        "endColumn": 64,
-                        "endOffset": 4430
+                        "startOffset": 4151,
+                        "endColumn": 49,
+                        "endOffset": 4196
                     }
                 }
             },
@@ -1538,18 +1538,18 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 7193,
-                    "endColumn": 64,
-                    "endOffset": 7253
+                    "startOffset": 7109,
+                    "endColumn": 98,
+                    "endOffset": 7203
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 75,
+                        "startLine": 73,
                         "startColumn": 4,
-                        "startOffset": 4435,
-                        "endColumn": 64,
-                        "endOffset": 4495
+                        "startOffset": 4201,
+                        "endColumn": 98,
+                        "endOffset": 4295
                     }
                 }
             },
@@ -1557,18 +1557,18 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 7258,
-                    "endColumn": 91,
-                    "endOffset": 7345
+                    "startOffset": 7208,
+                    "endColumn": 50,
+                    "endOffset": 7254
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 76,
+                        "startLine": 74,
                         "startColumn": 4,
-                        "startOffset": 4500,
-                        "endColumn": 91,
-                        "endOffset": 4587
+                        "startOffset": 4300,
+                        "endColumn": 50,
+                        "endOffset": 4346
                     }
                 }
             },
@@ -1576,18 +1576,18 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 7350,
-                    "endColumn": 78,
-                    "endOffset": 7424
+                    "startOffset": 7259,
+                    "endColumn": 167,
+                    "endOffset": 7422
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 752,
-                        "endColumn": 78,
-                        "endOffset": 826
+                        "startOffset": 4351,
+                        "endColumn": 167,
+                        "endOffset": 4514
                     }
                 }
             },
@@ -1595,18 +1595,18 @@
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 7429,
-                    "endColumn": 54,
-                    "endOffset": 7479
+                    "startOffset": 7427,
+                    "endColumn": 82,
+                    "endOffset": 7505
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 77,
+                        "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 4592,
-                        "endColumn": 54,
-                        "endOffset": 4642
+                        "startOffset": 4519,
+                        "endColumn": 82,
+                        "endOffset": 4597
                     }
                 }
             },
@@ -1614,18 +1614,18 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 7484,
-                    "endColumn": 59,
-                    "endOffset": 7539
+                    "startOffset": 7510,
+                    "endColumn": 64,
+                    "endOffset": 7570
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 77,
                         "startColumn": 4,
-                        "startOffset": 831,
-                        "endColumn": 59,
-                        "endOffset": 886
+                        "startOffset": 4602,
+                        "endColumn": 64,
+                        "endOffset": 4662
                     }
                 }
             },
@@ -1633,18 +1633,18 @@
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 7544,
-                    "endColumn": 94,
-                    "endOffset": 7634
+                    "startOffset": 7575,
+                    "endColumn": 64,
+                    "endOffset": 7635
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
-                        "startOffset": 4647,
-                        "endColumn": 94,
-                        "endOffset": 4737
+                        "startOffset": 4667,
+                        "endColumn": 64,
+                        "endOffset": 4727
                     }
                 }
             },
@@ -1652,18 +1652,18 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 7639,
-                    "endColumn": 84,
-                    "endOffset": 7719
+                    "startOffset": 7640,
+                    "endColumn": 91,
+                    "endOffset": 7727
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
-                        "startOffset": 4742,
-                        "endColumn": 84,
-                        "endOffset": 4822
+                        "startOffset": 4732,
+                        "endColumn": 91,
+                        "endOffset": 4819
                     }
                 }
             },
@@ -1671,18 +1671,18 @@
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 7724,
-                    "endColumn": 121,
-                    "endOffset": 7841
+                    "startOffset": 7732,
+                    "endColumn": 78,
+                    "endOffset": 7806
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 80,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 4827,
-                        "endColumn": 121,
-                        "endOffset": 4944
+                        "startOffset": 819,
+                        "endColumn": 78,
+                        "endOffset": 893
                     }
                 }
             },
@@ -1690,18 +1690,18 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 7846,
-                    "endColumn": 116,
-                    "endOffset": 7958
+                    "startOffset": 7811,
+                    "endColumn": 54,
+                    "endOffset": 7861
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 81,
+                        "startLine": 80,
                         "startColumn": 4,
-                        "startOffset": 4949,
-                        "endColumn": 116,
-                        "endOffset": 5061
+                        "startOffset": 4824,
+                        "endColumn": 54,
+                        "endOffset": 4874
                     }
                 }
             },
@@ -1709,18 +1709,18 @@
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 7963,
-                    "endColumn": 87,
-                    "endOffset": 8046
+                    "startOffset": 7866,
+                    "endColumn": 59,
+                    "endOffset": 7921
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 82,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 5066,
-                        "endColumn": 87,
-                        "endOffset": 5149
+                        "startOffset": 898,
+                        "endColumn": 59,
+                        "endOffset": 953
                     }
                 }
             },
@@ -1728,18 +1728,18 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 8051,
-                    "endColumn": 47,
-                    "endOffset": 8094
+                    "startOffset": 7926,
+                    "endColumn": 94,
+                    "endOffset": 8016
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 83,
+                        "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 5154,
-                        "endColumn": 47,
-                        "endOffset": 5197
+                        "startOffset": 4879,
+                        "endColumn": 94,
+                        "endOffset": 4969
                     }
                 }
             },
@@ -1747,18 +1747,18 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 8099,
-                    "endColumn": 50,
-                    "endOffset": 8145
+                    "startOffset": 8021,
+                    "endColumn": 84,
+                    "endOffset": 8101
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 84,
+                        "startLine": 82,
                         "startColumn": 4,
-                        "startOffset": 5202,
-                        "endColumn": 50,
-                        "endOffset": 5248
+                        "startOffset": 4974,
+                        "endColumn": 84,
+                        "endOffset": 5054
                     }
                 }
             },
@@ -1766,18 +1766,18 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 8150,
-                    "endColumn": 68,
-                    "endOffset": 8214
+                    "startOffset": 8106,
+                    "endColumn": 121,
+                    "endOffset": 8223
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 368,
-                        "endColumn": 68,
-                        "endOffset": 432
+                        "startOffset": 5059,
+                        "endColumn": 121,
+                        "endOffset": 5176
                     }
                 }
             },
@@ -1785,18 +1785,18 @@
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 8219,
-                    "endColumn": 54,
-                    "endOffset": 8269
+                    "startOffset": 8228,
+                    "endColumn": 116,
+                    "endOffset": 8340
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 84,
                         "startColumn": 4,
-                        "startOffset": 437,
-                        "endColumn": 54,
-                        "endOffset": 487
+                        "startOffset": 5181,
+                        "endColumn": 116,
+                        "endOffset": 5293
                     }
                 }
             },
@@ -1804,18 +1804,18 @@
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 8274,
-                    "endColumn": 65,
-                    "endOffset": 8335
+                    "startOffset": 8345,
+                    "endColumn": 87,
+                    "endOffset": 8428
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 85,
                         "startColumn": 4,
-                        "startOffset": 492,
-                        "endColumn": 65,
-                        "endOffset": 553
+                        "startOffset": 5298,
+                        "endColumn": 87,
+                        "endOffset": 5381
                     }
                 }
             },
@@ -1823,18 +1823,18 @@
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 8340,
-                    "endColumn": 55,
-                    "endOffset": 8391
+                    "startOffset": 8433,
+                    "endColumn": 47,
+                    "endOffset": 8476
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 85,
+                        "startLine": 86,
                         "startColumn": 4,
-                        "startOffset": 5253,
-                        "endColumn": 55,
-                        "endOffset": 5304
+                        "startOffset": 5386,
+                        "endColumn": 47,
+                        "endOffset": 5429
                     }
                 }
             },
@@ -1842,18 +1842,18 @@
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 8396,
-                    "endColumn": 106,
-                    "endOffset": 8498
+                    "startOffset": 8481,
+                    "endColumn": 50,
+                    "endOffset": 8527
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 86,
+                        "startLine": 87,
                         "startColumn": 4,
-                        "startOffset": 5309,
-                        "endColumn": 106,
-                        "endOffset": 5411
+                        "startOffset": 5434,
+                        "endColumn": 50,
+                        "endOffset": 5480
                     }
                 }
             },
@@ -1861,18 +1861,18 @@
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 8503,
-                    "endColumn": 131,
-                    "endOffset": 8630
+                    "startOffset": 8532,
+                    "endColumn": 68,
+                    "endOffset": 8596
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 87,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 5416,
-                        "endColumn": 131,
-                        "endOffset": 5543
+                        "startOffset": 451,
+                        "endColumn": 68,
+                        "endOffset": 515
                     }
                 }
             },
@@ -1880,18 +1880,18 @@
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 8635,
-                    "endColumn": 38,
-                    "endOffset": 8669
+                    "startOffset": 8601,
+                    "endColumn": 54,
+                    "endOffset": 8651
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 88,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 5548,
-                        "endColumn": 38,
-                        "endOffset": 5582
+                        "startOffset": 520,
+                        "endColumn": 54,
+                        "endOffset": 570
                     }
                 }
             },
@@ -1899,18 +1899,18 @@
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 8674,
-                    "endColumn": 91,
-                    "endOffset": 8761
+                    "startOffset": 8656,
+                    "endColumn": 65,
+                    "endOffset": 8717
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 91,
-                        "endOffset": 978
+                        "startOffset": 575,
+                        "endColumn": 65,
+                        "endOffset": 636
                     }
                 }
             },
@@ -1918,18 +1918,18 @@
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 8766,
-                    "endColumn": 118,
-                    "endOffset": 8880
+                    "startOffset": 8722,
+                    "endColumn": 55,
+                    "endOffset": 8773
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 983,
-                        "endColumn": 118,
-                        "endOffset": 1097
+                        "startOffset": 5485,
+                        "endColumn": 55,
+                        "endOffset": 5536
                     }
                 }
             },
@@ -1937,18 +1937,18 @@
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 8885,
-                    "endColumn": 39,
-                    "endOffset": 8920
+                    "startOffset": 8778,
+                    "endColumn": 106,
+                    "endOffset": 8880
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
-                        "startOffset": 5587,
-                        "endColumn": 39,
-                        "endOffset": 5622
+                        "startOffset": 5541,
+                        "endColumn": 106,
+                        "endOffset": 5643
                     }
                 }
             },
@@ -1956,18 +1956,18 @@
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 8925,
-                    "endColumn": 40,
-                    "endOffset": 8961
+                    "startOffset": 8885,
+                    "endColumn": 131,
+                    "endOffset": 9012
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
-                        "startOffset": 5627,
-                        "endColumn": 40,
-                        "endOffset": 5663
+                        "startOffset": 5648,
+                        "endColumn": 131,
+                        "endOffset": 5775
                     }
                 }
             },
@@ -1975,18 +1975,18 @@
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 8966,
-                    "endColumn": 73,
-                    "endOffset": 9035
+                    "startOffset": 9017,
+                    "endColumn": 38,
+                    "endOffset": 9051
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/6c3dc2211463775cd4a21dbc4b48aace9ca0cc4f/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 91,
                         "startColumn": 4,
-                        "startOffset": 1102,
-                        "endColumn": 73,
-                        "endOffset": 1171
+                        "startOffset": 5780,
+                        "endColumn": 38,
+                        "endOffset": 5814
                     }
                 }
             },
@@ -1994,12 +1994,107 @@
                 "to": {
                     "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 9040,
-                    "endColumn": 172,
-                    "endOffset": 9208
+                    "startOffset": 9056,
+                    "endColumn": 91,
+                    "endOffset": 9143
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/5ef898d874c1cd2a639b4a286477189636f21630/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endColumn": 91,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9148,
+                    "endColumn": 118,
+                    "endOffset": 9262
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 118,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 9267,
+                    "endColumn": 39,
+                    "endOffset": 9302
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5819,
+                        "endColumn": 39,
+                        "endOffset": 5854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 9307,
+                    "endColumn": 40,
+                    "endOffset": 9343
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5859,
+                        "endColumn": 40,
+                        "endOffset": 5895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 9348,
+                    "endColumn": 73,
+                    "endOffset": 9417
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endColumn": 73,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9422,
+                    "endColumn": 172,
+                    "endOffset": 9590
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/1efa73bc74d806b354a7a3bf7889e39f714b24a0/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -2011,14 +2106,14 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 9213,
+                    "startOffset": 9595,
                     "endColumn": 168,
-                    "endOffset": 9377
+                    "endOffset": 9759
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/5ef898d874c1cd2a639b4a286477189636f21630/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/1efa73bc74d806b354a7a3bf7889e39f714b24a0/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -2030,115 +2125,20 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 9382,
+                    "startOffset": 9764,
                     "endColumn": 73,
-                    "endOffset": 9451
+                    "endOffset": 9833
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 91,
-                        "startColumn": 4,
-                        "startOffset": 5668,
-                        "endColumn": 73,
-                        "endOffset": 5737
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 133,
-                    "startColumn": 4,
-                    "startOffset": 9456,
-                    "endColumn": 45,
-                    "endOffset": 9497
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 92,
-                        "startColumn": 4,
-                        "startOffset": 5742,
-                        "endColumn": 45,
-                        "endOffset": 5783
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 134,
-                    "startColumn": 4,
-                    "startOffset": 9502,
-                    "endColumn": 84,
-                    "endOffset": 9582
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 93,
-                        "startColumn": 4,
-                        "startOffset": 5788,
-                        "endColumn": 84,
-                        "endOffset": 5868
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 135,
-                    "startColumn": 4,
-                    "startOffset": 9587,
-                    "endColumn": 117,
-                    "endOffset": 9700
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
-                        "startOffset": 5873,
-                        "endColumn": 117,
-                        "endOffset": 5986
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 136,
-                    "startColumn": 4,
-                    "startOffset": 9705,
-                    "endColumn": 129,
-                    "endOffset": 9830
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 95,
-                        "startColumn": 4,
-                        "startOffset": 5991,
-                        "endColumn": 129,
-                        "endOffset": 6116
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 137,
-                    "startColumn": 4,
-                    "startOffset": 9835,
-                    "endColumn": 137,
-                    "endOffset": 9968
-                },
-                "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
-                    "position": {
-                        "startLine": 96,
-                        "startColumn": 4,
-                        "startOffset": 6121,
-                        "endColumn": 137,
-                        "endOffset": 6254
+                        "startOffset": 5900,
+                        "endColumn": 73,
+                        "endOffset": 5969
                     }
                 }
             },
@@ -2146,18 +2146,18 @@
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 9973,
-                    "endColumn": 88,
-                    "endOffset": 10057
+                    "startOffset": 9838,
+                    "endColumn": 45,
+                    "endOffset": 9879
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/57c505ad74db0b5ca716b1a306792a55c5d47ac3/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 97,
+                        "startLine": 95,
                         "startColumn": 4,
-                        "startOffset": 6259,
-                        "endColumn": 88,
-                        "endOffset": 6343
+                        "startOffset": 5974,
+                        "endColumn": 45,
+                        "endOffset": 6015
                     }
                 }
             },
@@ -2165,18 +2165,18 @@
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 10062,
-                    "endColumn": 49,
-                    "endOffset": 10107
+                    "startOffset": 9884,
+                    "endColumn": 84,
+                    "endOffset": 9964
                 },
                 "from": {
-                    "file": "/Users/jbeadle/.android/build-cache/f6dd0b7108c1ff5d1bf46aee17fde5c881f74b9c/output/res/values-th/values-th.xml",
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 96,
                         "startColumn": 4,
-                        "startOffset": 776,
-                        "endColumn": 49,
-                        "endOffset": 821
+                        "startOffset": 6020,
+                        "endColumn": 84,
+                        "endOffset": 6100
                     }
                 }
             },
@@ -2184,9 +2184,313 @@
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 10112,
+                    "startOffset": 9969,
+                    "endColumn": 117,
+                    "endOffset": 10082
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6105,
+                        "endColumn": 117,
+                        "endOffset": 6218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10087,
+                    "endColumn": 129,
+                    "endOffset": 10212
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6223,
+                        "endColumn": 129,
+                        "endOffset": 6348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 10217,
+                    "endColumn": 137,
+                    "endOffset": 10350
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6353,
+                        "endColumn": 137,
+                        "endOffset": 6486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10355,
+                    "endColumn": 88,
+                    "endOffset": 10439
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6491,
+                        "endColumn": 88,
+                        "endOffset": 6575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 10444,
+                    "endColumn": 49,
+                    "endOffset": 10489
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/62d923641f7765415f4040583e65523675e8092b/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 49,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 10494,
                     "endColumn": 80,
-                    "endOffset": 10188
+                    "endOffset": 10570
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6580,
+                        "endColumn": 80,
+                        "endOffset": 6656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 10575,
+                    "endColumn": 59,
+                    "endOffset": 10630
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6661,
+                        "endColumn": 59,
+                        "endOffset": 6716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 10635,
+                    "endColumn": 77,
+                    "endOffset": 10708
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6721,
+                        "endColumn": 77,
+                        "endOffset": 6794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 10713,
+                    "endColumn": 77,
+                    "endOffset": 10786
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6799,
+                        "endColumn": 77,
+                        "endOffset": 6872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 10791,
+                    "endColumn": 133,
+                    "endOffset": 10920
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6877,
+                        "endColumn": 133,
+                        "endOffset": 7006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 10925,
+                    "endColumn": 76,
+                    "endOffset": 10997
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7011,
+                        "endColumn": 76,
+                        "endOffset": 7083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 11002,
+                    "endColumn": 142,
+                    "endOffset": 11140
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7088,
+                        "endColumn": 142,
+                        "endOffset": 7226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 11145,
+                    "endColumn": 146,
+                    "endOffset": 11287
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7231,
+                        "endColumn": 146,
+                        "endOffset": 7373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 11292,
+                    "endColumn": 137,
+                    "endOffset": 11425
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7378,
+                        "endColumn": 137,
+                        "endOffset": 7511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 11430,
+                    "endColumn": 196,
+                    "endOffset": 11622
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7516,
+                        "endColumn": 196,
+                        "endOffset": 7708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 11627,
+                    "endColumn": 144,
+                    "endOffset": 11767
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/fd661bf36f10b1ba6340bb32884ba5c12fe1b2ac/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7713,
+                        "endColumn": 144,
+                        "endOffset": 7853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11772,
+                    "endColumn": 80,
+                    "endOffset": 11848
                 },
                 "from": {
                     "file": "/Users/jbeadle/.android/build-cache/e01c35bf5a22e66e9a25ead649ac299889dd81df/output/res/values-th/values-th.xml",
@@ -2201,11 +2505,11 @@
             },
             {
                 "to": {
-                    "startLine": 141,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 10193,
+                    "startOffset": 11853,
                     "endColumn": 100,
-                    "endOffset": 10289
+                    "endOffset": 11949
                 },
                 "from": {
                     "file": "/Users/jbeadle/.android/build-cache/e01c35bf5a22e66e9a25ead649ac299889dd81df/output/res/values-th/values-th.xml",
@@ -2215,6 +2519,25 @@
                         "startOffset": 2050,
                         "endColumn": 100,
                         "endOffset": 2146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 11954,
+                    "endColumn": 62,
+                    "endOffset": 12012
+                },
+                "from": {
+                    "file": "/Users/jbeadle/.android/build-cache/eb2cee973962c5d7b335ac2e02d5293d531aff46/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 62,
+                        "endOffset": 1301
                     }
                 }
             }

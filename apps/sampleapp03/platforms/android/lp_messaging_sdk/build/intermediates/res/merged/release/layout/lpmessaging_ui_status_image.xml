@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
-       android:layout_width="match_parent"
-       android:layout_height="match_parent">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
     <ImageView
         android:id="@+id/lpui_message_error"
@@ -12,7 +13,7 @@
         android:layout_toLeftOf="@id/lpui_message_text"
         android:clickable="true"
         android:contentDescription="@string/lp_accessibility_resend"
-        android:src="@drawable/lpmessaging_ui_ic_msg_error"
+        app:srcCompat="@drawable/lpmessaging_ui_ic_msg_error"
         android:visibility="gone" />
 
     <ImageView
@@ -23,7 +24,7 @@
         android:layout_marginRight="@dimen/margin_half"
         android:layout_toLeftOf="@id/lpui_message_text"
         android:contentDescription=""
-        android:src="@drawable/lpmessaging_ui_ic_msg_read"
+        app:srcCompat="@drawable/lpmessaging_ui_ic_msg_read"
         android:visibility="gone" />
 
 </merge>

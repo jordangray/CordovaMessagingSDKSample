@@ -50,6 +50,7 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
     <string name="brand_name">Mitt merke</string>
+    <string name="downloading_image">Laster ned bilde ...</string>
     <string name="lp_accessibility_agent">Agent</string>
     <string name="lp_accessibility_agent_icon">Agent-ikon</string>
     <string name="lp_accessibility_attachment_menu">Vedleggmeny</string>
@@ -61,15 +62,19 @@
     <string name="lp_accessibility_gallery">Galleri</string>
     <string name="lp_accessibility_image">Bilde</string>
     <string name="lp_accessibility_image_caption">Bildetekst</string>
+    <string name="lp_accessibility_message_preview_close_description">Lukk</string>
     <string name="lp_accessibility_new_agent_message">Ny agentmelding: </string>
     <string name="lp_accessibility_new_system_message">y systemmelding: </string>
     <string name="lp_accessibility_photo">bilde</string>
     <string name="lp_accessibility_photo_preview">Forhåndsvisning av bilde</string>
     <string name="lp_accessibility_received">mottatt</string>
     <string name="lp_accessibility_resend">Send på nytt</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">rull ned</string>
     <string name="lp_accessibility_selected">valgt</string>
     <string name="lp_accessibility_you">Du</string>
     <string name="lp_add_a_caption">Legg til bildetekst</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galleri</string>
     <string name="lp_cancel">Avbryt</string>
     <string name="lp_clear_history_dialog_message">All eksisterende samtalehistorikk forsvinner. Er du sikker?</string>
     <string name="lp_clear_history_dialog_positive_button">Tøm</string>
@@ -138,6 +143,18 @@
     <string name="lp_ttr_message_off_hours_message_tomorrow">Takk for din melding. Vi vil være tilbake på nett i morgen kl. %1$s</string>
     <string name="lp_ttr_message_with_timestamp">En agent vil svare innen de neste %1$s</string>
     <string name="lp_yesterday">I går</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Fyll ut skjema</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">BLI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">OK</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Du vil ikke lenger ha tilgang til det sikre skjema etter du forlater det.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Er du sikker?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Det oppstod et problem under åpningen av dette skjemaet. Vennligst be agenten om å sende skjemaet på nytt.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Sikkert skjema utgikk på tid. Vennligst be agenten om å sende skjemaet på nytt.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Dette skjemaet er allerede innsendt og kan ikke åpnes på nytt på grunn av sikkerhetsgrunner.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">Dette er et sikkert skjema. Opplysningene du oppgir her er beskyttet og kan ikke vises etter de er innsendt.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Skjema er allerede vist. Vennligst be agenten om å sende skjemaet på nytt.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Søk"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="uploading_image">Laster opp bilde ...</string>
 </resources>

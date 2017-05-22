@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    android:id="@+id/lpui_feedbackLayoutRootView"
+<RelativeLayout android:id="@+id/lpui_feedbackLayoutRootView"
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
@@ -59,8 +59,7 @@
                 android:layout_weight="1"
                 android:clickable="true"
                 android:contentDescription="@string/lp_feedback_1"
-                android:padding="@dimen/margin_half"
-                android:src="@drawable/lpmessaging_ui_star_empty"
+                app:srcCompat="@drawable/lpmessaging_ui_star_empty"
                 android:tag="1"/>
 
             <ImageView
@@ -70,8 +69,7 @@
                 android:layout_weight="1"
                 android:clickable="true"
                 android:contentDescription="@string/lp_feedback_2"
-                android:padding="@dimen/margin_half"
-                android:src="@drawable/lpmessaging_ui_star_empty"
+                app:srcCompat="@drawable/lpmessaging_ui_star_empty"
                 android:tag="2"/>
 
             <ImageView
@@ -81,8 +79,7 @@
                 android:layout_weight="1"
                 android:clickable="true"
                 android:contentDescription="@string/lp_feedback_3"
-                android:padding="@dimen/margin_half"
-                android:src="@drawable/lpmessaging_ui_star_empty"
+                app:srcCompat="@drawable/lpmessaging_ui_star_empty"
                 android:tag="3"/>
 
             <ImageView
@@ -92,8 +89,7 @@
                 android:layout_weight="1"
                 android:clickable="true"
                 android:contentDescription="@string/lp_feedback_4"
-                android:padding="@dimen/margin_half"
-                android:src="@drawable/lpmessaging_ui_star_empty"
+                app:srcCompat="@drawable/lpmessaging_ui_star_empty"
                 android:tag="4"/>
 
             <ImageView
@@ -103,8 +99,7 @@
                 android:layout_weight="1"
                 android:clickable="true"
                 android:contentDescription="@string/lp_feedback_5"
-                android:padding="@dimen/margin_half"
-                android:src="@drawable/lpmessaging_ui_star_empty"
+                app:srcCompat="@drawable/lpmessaging_ui_star_empty"
                 android:tag="5"/>
         </LinearLayout>
 

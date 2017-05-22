@@ -60,9 +60,12 @@
     <string name="lp_accessibility_photo_preview">Predogled foto</string>
     <string name="lp_accessibility_received">prejete</string>
     <string name="lp_accessibility_resend">Ponovno poslati</string>
+    <string name="lp_accessibility_scroll_down_indicator_description">pomaknite se navzdol</string>
     <string name="lp_accessibility_selected">izbrane</string>
     <string name="lp_accessibility_you">Vi</string>
     <string name="lp_add_a_caption">Dodajte napis</string>
+    <string name="lp_attachment_menu_camera_item_text">Kamera</string>
+    <string name="lp_attachment_menu_gallery_item_text">Galerija</string>
     <string name="lp_cancel">Prekliči</string>
     <string name="lp_clear_history_dialog_message">Vaša celotna obstoječa zgodovina pogovorov bo izgubljena. Ali ste prepričani?</string>
     <string name="lp_clear_history_dialog_positive_button">Počisti</string>
@@ -115,6 +118,17 @@
     <string name="lp_ttr_message_off_hours_message_today">Hvala za vaše sporočilo. Spet bomo na voljo danes ob %1$s</string>
     <string name="lp_ttr_message_off_hours_message_tomorrow">Hvala za vaše sporočilo. Spet bomo na voljo jutri ob %1$s</string>
     <string name="lp_ttr_message_with_timestamp">Asistent vam bo odgovoril v naslednjem(-ih) %1$s</string>
+    <string name="lpmessaging_ui_fill_in_form_text_button">Izpolni obrazec</string>
+    <string name="lpmessaging_ui_fill_in_form_text_empty"/>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_negative">OSTANI</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_btn_positive">V redu</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_description">Ko zapustite varen obrazec, do njega več ne boste mogli dostopati.</string>
+    <string name="lpmessaging_ui_pci_leave_dialog_title">Ali ste prepričani?</string>
+    <string name="lpmessaging_ui_secure_form_error_message">Pri odpiranju obrazca se je pojavila težava. Agenta prosite, da vam obrazec ponovno pošlje.</string>
+    <string name="lpmessaging_ui_secure_form_expired_message">Varen obrazec je potekel. Agenta prosite, da vam obrazec ponovno pošlje.</string>
+    <string name="lpmessaging_ui_secure_form_submitted_message">Ta obrazec je bil poslan in ga zaradi varnosti ni možno ponovno odpreti.</string>
+    <string name="lpmessaging_ui_secure_form_to_fill_in_message">To je varni obrazec Vnesene informacije so zaščitene. Ko jih oddate, niso nedostopne nikomur.</string>
+    <string name="lpmessaging_ui_secure_form_viewed_message">Ta obrazec ste si že ogledali. Agenta prosite, da vam obrazec ponovno pošlje.</string>
     <string msgid="146198913615257606" name="search_menu_title">"Iskanje"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
