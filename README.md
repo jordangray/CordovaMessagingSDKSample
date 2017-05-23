@@ -11,8 +11,8 @@ Current Version: v1.6
 
 ## PLEASE NOTE -- XCODE UPGRADE REQUIRED!!
 
-+ v1.5 of the plugin has been compiled with the xcode version 8.3.1
-+ any apps you build with this version of the iOS frameworks (v2.1.5) will require the above xcode version to build and run - due to the change in Swift version numbers.
++ v1.5+ of the plugin has been compiled with the xcode version 8.3.1
++ any apps you build with this version of the iOS frameworks (v2.1.5 >= v2.3) will require the above xcode version to build and run - due to the change in Swift version numbers.
 
 
 ## "Where do I find the latest version of the plugin?"
@@ -22,9 +22,9 @@ The various versions of the plugin live here:
 
 `/plugins/`
 
-The latest release v1.5 is here
+The latest release v1.6 is here
 
-`/plugins/v1.5/MessagingSDKPlugin`
+`/plugins/v1.6/MessagingSDKPlugin`
 
 If you need to reinstall the plugin to your app, make sure you pull it from this folder to include the latest iOS frameworks.
 
@@ -33,7 +33,7 @@ e.g if you were working in the sampleapp01 example folder
 ```
 cd apps/sampleapp01
 cordova plugin remove com.liveperson.messagingSDK
-cordova plugin add ../../plugins/v1.5/MessagingSDKPlugin
+cordova plugin add ../../plugins/v1.6/MessagingSDKPlugin
 ```
 
 -----------
