@@ -243,11 +243,11 @@ var app = {
         lpMessagingSDK.lp_conversation_api(
             "set_lp_user_profile", [
                 this.settings.accountId,
-                "John",
-                "Doe",
-                "NickName:JD",
+                "Drew",
+                "H",
+                "NickName:DH",
                 "https://s-media-cache-ak0.pinimg.com/564x/a2/c7/ee/a2c7ee8982de3bae503a730fe4562cf9.jpg",
-                "tel:555-444-12345"
+                "tel:555-333-4444"
             ],
             function(data) {
                 var eventData = JSON.parse(data);
@@ -274,10 +274,11 @@ var app = {
         // in this sample app the token is hardcoded for this specific account.
         console.log('lpStartMessagingConversation customerId ' + customerId);
         // sub TALKTALK-04-APR-2017-1120
-        var JWT = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUQUxLVEFMSy0wNC1BUFItMjAxNy0xMTIwIiwiaXNzIjoiaHR0cHM6Ly93d3cubGl2ZXBlcnNvbi5jb20iLCJleHAiOjE0OTEzMDUxMDAwMDAsImlhdCI6MTQ4NzE1OTMzNzAwMCwicGhvbmVfbnVtYmVyIjoiKzEtMTAtMzQ0LTM3NjUzMzMiLCJscF9zZGVzIjpbeyJ0eXBlIjoiY3RtcmluZm8iLCJpbmZvIjp7ImNzdGF0dXMiOiJjYW5jZWxsZWQiLCJjdHlwZSI6InZpcCIsImN1c3RvbWVySWQiOiJUQUxLVEFMSy0wNC1BUFItMjAxNy0xMTIwIiwiYmFsYW5jZSI6LTQwMC45OSwic29jaWFsSWQiOiIxMTI1NjMyNDc4MCIsImltZWkiOiIzNTQzNTQ2NTQzNTQ1Njg4IiwidXNlck5hbWUiOiJ1c2VyMDAwIiwiY29tcGFueVNpemUiOjUwMCwiYWNjb3VudE5hbWUiOiJiYW5rIGNvcnAiLCJyb2xlIjoiYnJva2VyIiwibGFzdFBheW1lbnREYXRlIjp7ImRheSI6MTUsIm1vbnRoIjoxMCwieWVhciI6MjAxNH0sInJlZ2lzdHJhdGlvbkRhdGUiOnsiZGF5IjoyMywibW9udGgiOjUsInllYXIiOjIwMTN9fX0seyJ0eXBlIjoicGVyc29uYWwiLCJwZXJzb25hbCI6eyJmaXJzdG5hbWUiOiJKb2huOTkiLCJsYXN0bmFtZSI6IkJlYWRsZTk5IiwiYWdlIjp7ImFnZSI6MzQsInllYXIiOjE5ODAsIm1vbnRoIjo0LCJkYXkiOjE1fSwiY29udGFjdHMiOlt7ImVtYWlsIjoiamJlYWRsZTk5QGxpdmVwZXJzb24uY29tIiwicGhvbmUiOiIrMSAyMTItNzg4LTg4NzcifV0sImdlbmRlciI6Ik1BTEUifX1dfQ.LlClhbOSl1SP2eNfxmeNHP4WEQytOG4hmXu2hSgQlWFUOvZ3hLDu6KzPiNq-tvN4gZ_a2xVrXMxVqvQa-gp2Bc8ZtMSo91HJi39AiAgbO7ETKZ8xbBkwKhs6DeWdhXyb5WHHwjnAN8ba_vWeKkQ3yHJ7bvi9W-q2LjfymATu6a4";
+        var JWT = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUQUxLVEFMSy0wNC1BUFItMjAxNy0xMTIwIiwiaXNzIjoiaHR0cHM6Ly93d3cubGl2ZXBlcnNvbi5jb20iLCJleHAiOjE0OTg4MTc0MTAsImlhdCI6MTQ4NzE1OTMzNywicGhvbmVfbnVtYmVyIjoiKzEtMTAtMzQ0LTM3NjUzMzMiLCJscF9zZGVzIjpbeyJ0eXBlIjoiY3RtcmluZm8iLCJpbmZvIjp7ImNzdGF0dXMiOiJjYW5jZWxsZWQiLCJjdHlwZSI6InZpcCIsImN1c3RvbWVySWQiOiJUQUxLVEFMSy0wNC1BUFItMjAxNy0xMTIwIiwiYmFsYW5jZSI6LTQwMC45OSwic29jaWFsSWQiOiIxMTI1NjMyNDc4MCIsImltZWkiOiIzNTQzNTQ2NTQzNTQ1Njg4IiwidXNlck5hbWUiOiJ1c2VyMDAwIiwiY29tcGFueVNpemUiOjUwMCwiYWNjb3VudE5hbWUiOiJiYW5rIGNvcnAiLCJyb2xlIjoiYnJva2VyIiwibGFzdFBheW1lbnREYXRlIjp7ImRheSI6MTUsIm1vbnRoIjoxMCwieWVhciI6MjAxNH0sInJlZ2lzdHJhdGlvbkRhdGUiOnsiZGF5IjoyMywibW9udGgiOjUsInllYXIiOjIwMTN9fX0seyJ0eXBlIjoicGVyc29uYWwiLCJwZXJzb25hbCI6eyJmaXJzdG5hbWUiOiJKb2huOTkiLCJsYXN0bmFtZSI6IkJlYWRsZTk5IiwiYWdlIjp7ImFnZSI6MzQsInllYXIiOjE5ODAsIm1vbnRoIjo0LCJkYXkiOjE1fSwiY29udGFjdHMiOlt7ImVtYWlsIjoiamJlYWRsZTk5QGxpdmVwZXJzb24uY29tIiwicGhvbmUiOiIrMSAyMTItNzg4LTg4NzcifV0sImdlbmRlciI6Ik1BTEUifX1dfQ.MjKbOowTgC-bmDnaZT05UAYUBanSZ3-6CYU0Qlstx_E3KzZr0IHmhxsj0acFAA0GZmK88ZsM2LN8ehuFDLecBluMC9TQMcrVyJJrSzcrd7_8pw0FXi2sp9wjB9WMjH62evV5Yo8h0yoZ3HKurLTluVNWlhbDOBwRbIKWiFlnRjQ";
 
-        // sub TALKTALK-12-APR-2017-2000
-        //        var JWT2 = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUQUxLVEFMSy0xMi1BUFItMjAxNy0yMDAwIiwiaXNzIjoiaHR0cHM6Ly93d3cubGl2ZXBlcnNvbi5jb20iLCJleHAiOjE0OTEzMDUxMDAsImlhdCI6MTQ4NzE1OTMzNywibHBfc2RlcyI6W3sidHlwZSI6ImN0bXJpbmZvIiwiaW5mbyI6eyJjc3RhdHVzIjoibmV3IiwiY3R5cGUiOiJ2aXAiLCJjdXN0b21lcklkIjoiVEFMS1RBTEstMTItQVBSLTIwMTctMjAwMCIsImJhbGFuY2UiOjU1NS43Nywic29jaWFsSWQiOiI0ODQ4ODQ4NDg0IiwiaW1laSI6Ijk4NzEzMTU0ODc4Nzg0OSIsInVzZXJOYW1lIjoidXNlcjA1MiIsImNvbXBhbnlTaXplIjoxMDAsImFjY291bnROYW1lIjoidGFsa3RhbGsiLCJyb2xlIjoiY3VzdG9tZXIiLCJsYXN0UGF5bWVudERhdGUiOnsiZGF5IjoxNSwibW9udGgiOjMsInllYXIiOjIwMTd9LCJyZWdpc3RyYXRpb25EYXRlIjp7ImRheSI6MjMsIm1vbnRoIjo1LCJ5ZWFyIjoyMDEzfX19XX0.l1kKa8alysf3bcdykB3VNF7nViNrnqs8snOGBra6JDRn8Pc3r5y-fPlfeeK-l2Zo63x9WiK8gLfsvKtyqoxRcrL6YDxZw6uWQs-A3VDVdB5Yr6pZ3pDt2Bk1A5teBCebey-UYZ6aD-rzENV_rgCaBK1PCJyHOUBnQwl7m3Rtu5w";
+        //talktalk jwt expires 1626
+//        var JWT = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjE1YjVjMzAyYzk0MTY2YWM5MjViYTVlOWMyNTBlYmM3In0.eyJpc3MiOiJodHRwczpcL1wvd3d3LnRhbGt0YWxrLmNvLnVrIiwiZXhwIjoxNDk1NTUyODY5LCJpYXQiOjE0OTU1NDkyNjksInN1YiI6IjEtMDAwMDA1LTY3MzA1NS0wIn0.JAVMouf5xPj3rmIdCvaps2EmWaS4zhL8U4I750jeuMOTT36r39lQEZpUXicMVEucpErr-wOq0htluUaI_nRnAZ-m2twf6rTflnw5ql4K2Bg73i5prX2S9mKo2g3SojYLvPzmFQslJ9RGqwghOh6HErbCectJlLNntIZnCMsuwj5Ar_ozuHPOLtGOFLcyLMp9giMLNiXXuWoCYRiIrEIbq1fRKOUHo4nOQ__gCrmwYYVyF1pKG5q6ku1qfWPlTrKf3OF4uE7pJOkf__KdeVgVMRkBSoRh216letxWvPboZU-zJ8T_wlDKW5qEihmrcbIlWHuwmE8H0jmACBt1DQfikA";
+
 
         // sub TALKTALK-21-APR-2017-1510
         /* 1492788319
