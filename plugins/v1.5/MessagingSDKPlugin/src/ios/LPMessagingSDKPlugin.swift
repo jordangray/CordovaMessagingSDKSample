@@ -76,14 +76,11 @@ extension String {
         do {
             try LPMessagingSDK.instance.initialize(lpAccountNumber)
             
-            loadSdkConfiguration("branding")
+            try loadSdkConfiguration("branding")
             
             // only set config if we have a valid argument
-            // deprecated - should be done through direct editing of this function  for the relevant options
-            // in which case move the setSDKConfigurations call outside of this wrapping loop and call on init every time
-            
             if let config = command.arguments.lastElement as? [String:AnyObject] {
-                setSDKConfigurations(config)
+                setSdkConfiguration(config)
             }
             
             
