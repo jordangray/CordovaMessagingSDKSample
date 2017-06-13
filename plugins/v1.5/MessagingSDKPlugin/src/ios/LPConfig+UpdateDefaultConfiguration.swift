@@ -50,6 +50,11 @@ extension LPConfig {
                 let value = LPConfig.enumFromString(value: value as! String, defaultValue: CheckmarksState.all)
                 self.checkmarkVisibility = value
                 
+                // Avoid an unexpected behaviour
+                if (json["isReadReceiptTextMode"] == nil) {
+                    self.isReadReceiptTextMode = false
+                }
+                
             case .LPUrlPreviewStyle:
                 let value = LPConfig.enumFromString(value: value as! String, defaultValue: LPUrlPreviewStyle.slim)
                 self.urlPreviewStyle = value
