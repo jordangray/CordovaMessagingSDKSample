@@ -27,6 +27,7 @@ extension LPConfig {
     /// - Other: Property does not require any further conversion before it can be set
     fileprivate enum ConfigType {
         case Color
+        case Image
         case CheckmarkState
         case LPUrlPreviewStyle
         case Other
@@ -46,11 +47,17 @@ extension LPConfig {
                 let color = LPConfig.colorFromHexString(value as! String)
                 self.setValue(color, forKey: property)
                 
+            case .Image:
+                let url = URL(string: value as! String)
+                if let data = try? Data(contentsOf: url!) {
+                    self.setValue(UIImage(data: data), forKey: property)
+                }
+                
             case .CheckmarkState:
                 let value = LPConfig.enumFromString(value: value as! String, defaultValue: CheckmarksState.all)
                 self.checkmarkVisibility = value
                 
-                // Avoid an unexpected behaviour
+                // Avoid an unexpected behaviour due to iOS/Android SDK differences
                 if (json["isReadReceiptTextMode"] == nil) {
                     self.isReadReceiptTextMode = false
                 }
@@ -75,10 +82,13 @@ extension LPConfig {
         case key where key.hasSuffix("Color"):
             return ConfigType.Color
             
+        case key where key.hasSuffix("Image") && !key.hasPrefix("accessibility"):
+            return ConfigType.Image
+            
         case "checkmarkVisibility":
             return ConfigType.CheckmarkState
             
-        case "linkPreviewStyle":
+        case "linkPreviewStyle", "urlPreviewStyle":
             return ConfigType.LPUrlPreviewStyle
             
         default:
