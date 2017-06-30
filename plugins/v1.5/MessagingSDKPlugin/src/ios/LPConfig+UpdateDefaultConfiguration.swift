@@ -48,9 +48,14 @@ extension LPConfig {
                 self.setValue(color, forKey: property)
                 
             case .Image:
-                let url = URL(string: value as! String)
-                if let data = try? Data(contentsOf: url!) {
-                    self.setValue(UIImage(data: data), forKey: property)
+                if let img = UIImage(named: value as! String) {
+                    // Image comes from a named resource
+                    self.setValue(img, forKey: property)
+                } else if let url = URL(string: value as! String) {
+                    // Try to load image from URL
+                    if let data = try? Data(contentsOf: url) {
+                        self.setValue(UIImage(data: data), forKey: property)
+                    }
                 }
                 
             case .CheckmarkState:
