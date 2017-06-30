@@ -23,8 +23,11 @@ extension LPConfig {
     
     /// Indicates the type of property represented by a configuration value
     ///
-    /// - Color: Property is a hex string corresponding to a UIColor
-    /// - Other: Property does not require any further conversion before it can be set
+    /// - Color: a hex string corresponding to a UIColor
+    /// - Image: either an image resource name or a URL to an image
+    /// - CheckmarkState: a string corresponding to a CheckmarkState enum member
+    /// - LPUrlPreviewStyle: a string corresponding to an LPUrlPreviewStyle enum member
+    /// - Other: property does not require any further conversion before it can be set
     fileprivate enum ConfigType {
         case Color
         case Image
@@ -93,7 +96,7 @@ extension LPConfig {
         case "checkmarkVisibility":
             return ConfigType.CheckmarkState
             
-        case "linkPreviewStyle", "urlPreviewStyle":
+        case "linkPreviewStyle", "urlPreviewStyle": // linkPreviewStyle is incorrectly used in docs/branding guide
             return ConfigType.LPUrlPreviewStyle
             
         default:
